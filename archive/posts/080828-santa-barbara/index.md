@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080828-santa-barbara
 published: '2008-08-28'
 published_display: Thu, 28th August 2008
 source_page: 27
-rendered_at: '2025-11-04T16:24:56.531333+00:00'
+rendered_at: '2025-11-04T22:00:14.513336+00:00'
 assets: []
 embeds: []
 ---

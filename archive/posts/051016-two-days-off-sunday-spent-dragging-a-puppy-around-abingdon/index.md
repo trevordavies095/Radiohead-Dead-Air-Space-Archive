@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/051016-two-days-off-sunday
 published: '2005-10-16'
 published_display: Sun, 16th October 2005
 source_page: 44
-rendered_at: '2025-11-04T16:26:07.809701+00:00'
+rendered_at: '2025-11-04T22:00:36.821780+00:00'
 assets: []
 embeds: []
 ---

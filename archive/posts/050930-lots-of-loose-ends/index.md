@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/050930-lots-of-loose-ends
 published: '2005-09-30'
 published_display: Fri, 30th September 2005
 source_page: 44
-rendered_at: '2025-11-04T16:26:08.061633+00:00'
+rendered_at: '2025-11-04T22:00:36.949756+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/OTg1ZjQ0ZGM4MTk5NTU0OWZjMDE4NWNj/P1000008.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/OTg1ZjQ0ZGM4MTk5NTU0OWZjMDE4NWNj/P1000008.jpg
   local_path: images/001_P1000008.jpg
-  checksum: c01c1adee1e1cb6f20cbcfcba312cfd4d7e9f7d70ead4189882607b5435a2064
+  checksum: null
 embeds: []
 ---
 

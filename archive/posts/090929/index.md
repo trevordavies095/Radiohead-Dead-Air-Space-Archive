@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/090929-
 published: '2009-09-29'
 published_display: Tue, 29th September 2009
 source_page: 22
-rendered_at: '2025-11-04T16:24:34.349195+00:00'
+rendered_at: '2025-11-04T22:00:08.112914+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/OGM4M2Q1NmMxMWZmYzBkMzg3M2QxYWU4/80s-filter.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/OGM4M2Q1NmMxMWZmYzBkMzg3M2QxYWU4/80s-filter.jpg
   local_path: images/001_80s-filter.jpg
-  checksum: cfb365c0558c734f11b7a5f0deabcb31dcf3757bbbe73cdf6312ade1dbcf0829
+  checksum: null
 embeds: []
 ---
 

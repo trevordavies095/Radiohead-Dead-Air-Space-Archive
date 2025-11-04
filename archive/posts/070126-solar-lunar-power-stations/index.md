@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/070126-solar-lunar-power-s
 published: '2007-01-26'
 published_display: Fri, 26th January 2007
 source_page: 38
-rendered_at: '2025-11-04T16:25:39.481245+00:00'
+rendered_at: '2025-11-04T22:00:31.289984+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/OTQ3Y2JiYjVjYTY1MzQ4ZjgwMTE4Yzcy/paper138_image6.gif
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/OTQ3Y2JiYjVjYTY1MzQ4ZjgwMTE4Yzcy/paper138_image6.gif
   local_path: images/001_paper138_image6.gif
-  checksum: 9d0a880cbda2d2897fabcecd7909008a861711690954851d729c7d87ea48fa56
+  checksum: null
 embeds: []
 ---
 

@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/130328-what-have-you-done-
 published: '2013-03-28'
 published_display: Thu, 28th March 2013
 source_page: 10
-rendered_at: '2025-11-04T15:58:37.753819+00:00'
+rendered_at: '2025-11-04T21:55:26.568171+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/NGM1MGZlNTY2N2FjY2M2MGVhZDY4NzRh/hi-hihi-2.jpeg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/NGM1MGZlNTY2N2FjY2M2MGVhZDY4NzRh/hi-hihi-2.jpeg
   local_path: images/001_hi-hihi-2.jpeg
-  checksum: b058a4f838a3e10b89c0ca2403049efdbe69e3ff20545f89398e541fbc85662a
+  checksum: null
 embeds: []
 ---
 

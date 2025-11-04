@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/101130-cop-16
 published: '2010-11-30'
 published_display: Tue, 30th November 2010
 source_page: 17
-rendered_at: '2025-11-04T16:24:26.825051+00:00'
+rendered_at: '2025-11-04T22:00:02.471646+00:00'
 assets: []
 embeds: []
 ---

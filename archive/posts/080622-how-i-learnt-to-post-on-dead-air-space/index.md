@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080622-how-i-learnt-to-pos
 published: '2008-06-22'
 published_display: Sun, 22nd June 2008
 source_page: 29
-rendered_at: '2025-11-04T16:25:04.247529+00:00'
+rendered_at: '2025-11-04T22:00:17.849786+00:00'
 assets: []
 embeds: []
 ---

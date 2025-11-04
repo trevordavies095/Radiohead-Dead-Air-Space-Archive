@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/130122-an-audio-slideshow
 published: '2013-01-22'
 published_display: Tue, 22nd January 2013
 source_page: 10
-rendered_at: '2025-11-04T15:58:38.858255+00:00'
+rendered_at: '2025-11-04T21:55:28.526913+00:00'
 assets: []
 embeds:
 - tag: iframe
   src: http://player.vimeo.com/video/57965585
+  provider: vimeo
 ---
 
 <p>Here's an audio slideshow from Monday afternoon.</p>

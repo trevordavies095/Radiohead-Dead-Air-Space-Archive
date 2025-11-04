@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/080627-one-little-plane-qu
 published: '2008-06-27'
 published_display: Fri, 27th June 2008
 source_page: 29
-rendered_at: '2025-11-04T16:25:03.795747+00:00'
+rendered_at: '2025-11-04T22:00:17.807644+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/NGE4MWYzNjZjMTcyNzFlZDFiODU5ZTlm/olp_text005.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/NGE4MWYzNjZjMTcyNzFlZDFiODU5ZTlm/olp_text005.jpg
   local_path: images/001_olp_text005.jpg
-  checksum: 43978533f4b88cdb1117983fcd4944299464b722adab1a67eec61e0527691796
+  checksum: null
 embeds: []
 ---
 

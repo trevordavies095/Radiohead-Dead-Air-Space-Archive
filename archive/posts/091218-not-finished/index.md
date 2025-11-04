@@ -6,26 +6,32 @@ canonical_url: https://www.radiohead.com/deadairspace/091218-not-finished
 published: '2009-12-18'
 published_display: Fri, 18th December 2009
 source_page: 21
-rendered_at: '2025-11-04T16:24:31.221032+00:00'
+rendered_at: '2025-11-04T22:00:06.852977+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/YmZiMWEwODkzNGZmNTg5OTNkODJkZTY1/me-and-tony.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/YmZiMWEwODkzNGZmNTg5OTNkODJkZTY1/me-and-tony.jpg
   local_path: images/001_me-and-tony.jpg
-  checksum: d79c74bef6fa9e6e73d720d2b5fc70d5cd4fa3fd6938a0373a02af88be195fd6
-- remote_url: https://rsrc.wasteheadquarters.com/NDQ3ZGJlNDA5NTRmMDgyMzFjY2VjMmY4/the-empty-NGO-area..-your-voice.jpg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/NDQ3ZGJlNDA5NTRmMDgyMzFjY2VjMmY4/the-empty-NGO-area..-your-voice.jpg
   local_path: images/002_the-empty-NGO-area--your-voice.jpg
-  checksum: 496faf393dd2e40c68f5015c6cf6f8cf8f27ef03170ee4e5ec3c123f1bc9d441
-- remote_url: https://rsrc.wasteheadquarters.com/ZGQ0ZDc3YWRjZmEyZTdjMDRhNWM3MjUz/US-pR-HQ-empty-but-nice-lights.jpg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/ZGQ0ZDc3YWRjZmEyZTdjMDRhNWM3MjUz/US-pR-HQ-empty-but-nice-lights.jpg
   local_path: images/003_US-pR-HQ-empty-but-nice-lights.jpg
-  checksum: b304fb49c9af15f69e5aa270a49afde4bd543834fc133a6559d54963dcbd5963
-- remote_url: https://rsrc.wasteheadquarters.com/NzhhNjliMWE3YzgyMmI1YmZmYjViOGM3/civil-society.jpg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/NzhhNjliMWE3YzgyMmI1YmZmYjViOGM3/civil-society.jpg
   local_path: images/004_civil-society.jpg
-  checksum: 1af8c525fff3dd04e97a040f6af7f745529cbaa2c693b22f58fcdefd5f0adfbb
-- remote_url: https://rsrc.wasteheadquarters.com/OTRiY2VjMWRmMWQzM2EyNTRjNGVkZjlh/the-end-of-thursday.jpg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/OTRiY2VjMWRmMWQzM2EyNTRjNGVkZjlh/the-end-of-thursday.jpg
   local_path: images/005_the-end-of-thursday.jpg
-  checksum: 6963c343cddad423d289fe702aa3810e0fbd3566b4417d0f3b29acf1e0bf3e5b
-- remote_url: https://rsrc.wasteheadquarters.com/OGZlMjkyYTdiNGNjY2FmNTZiODY2NTAz/tear-this-down-in-disgust.jpg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/OGZlMjkyYTdiNGNjY2FmNTZiODY2NTAz/tear-this-down-in-disgust.jpg
   local_path: images/006_tear-this-down-in-disgust.jpg
-  checksum: 3c54596eca07ca2949b382cfb2a9b9d4007a464398edbb9c9ea6b61c19a1fe89
+  checksum: null
 embeds: []
 ---
 

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/120612-bologna-italy-chang
 published: '2012-06-12'
 published_display: Tue, 12th June 2012
 source_page: 13
-rendered_at: '2025-11-04T15:58:46.605176+00:00'
+rendered_at: '2025-11-04T21:55:36.251235+00:00'
 assets: []
 embeds: []
 ---

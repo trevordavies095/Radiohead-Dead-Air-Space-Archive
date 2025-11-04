@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/081128-this-weeks-office-c
 published: '2008-11-28'
 published_display: Fri, 28th November 2008
 source_page: 25
-rendered_at: '2025-11-04T16:24:46.887532+00:00'
+rendered_at: '2025-11-04T22:00:11.925467+00:00'
 assets: []
 embeds: []
 ---

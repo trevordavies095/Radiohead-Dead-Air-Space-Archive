@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/050821-that-was-a-long-day
 published: '2005-08-21'
 published_display: Sun, 21st August 2005
 source_page: 46
-rendered_at: '2025-11-04T16:26:12.639038+00:00'
+rendered_at: '2025-11-04T22:00:38.270790+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/ZDczNTdmMjZjMjU2NTM5MDE1Mzc1NDA0/piggsee.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/ZDczNTdmMjZjMjU2NTM5MDE1Mzc1NDA0/piggsee.jpg
   local_path: images/001_piggsee.jpg
-  checksum: 2caed60b67f60256e2f88bbc1f4f6ab5fb6a530c082854a35d9c71e0b46d5ffd
+  checksum: null
 embeds: []
 ---
 

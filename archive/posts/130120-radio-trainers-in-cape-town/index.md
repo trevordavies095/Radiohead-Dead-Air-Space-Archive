@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/130120-radio-trainers-in-c
 published: '2013-01-20'
 published_display: Sun, 20th January 2013
 source_page: 11
-rendered_at: '2025-11-04T15:58:40.179257+00:00'
+rendered_at: '2025-11-04T21:55:29.268459+00:00'
 assets: []
 embeds:
 - tag: iframe

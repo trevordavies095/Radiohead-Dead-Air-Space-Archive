@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/091219-copenhagen-climate-
 published: '2009-12-19'
 published_display: Sat, 19th December 2009
 source_page: 20
-rendered_at: '2025-11-04T16:24:29.810871+00:00'
+rendered_at: '2025-11-04T22:00:06.318378+00:00'
 assets: []
 embeds: []
 ---

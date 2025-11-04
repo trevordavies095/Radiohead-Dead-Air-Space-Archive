@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/090420-rip-jg-ballard-1930
 published: '2009-04-20'
 published_display: Mon, 20th April 2009
 source_page: 23
-rendered_at: '2025-11-04T16:24:40.422766+00:00'
+rendered_at: '2025-11-04T22:00:10.130298+00:00'
 assets: []
 embeds: []
 ---

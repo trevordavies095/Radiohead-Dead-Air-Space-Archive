@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/121214-in-sydney-with-the-
 published: '2012-12-14'
 published_display: Fri, 14th December 2012
 source_page: 11
-rendered_at: '2025-11-04T15:58:42.200303+00:00'
+rendered_at: '2025-11-04T21:55:29.754768+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/ZDJjYzgzMmU1YWUxZWY0N2I2YjI0OGYy/IMG_2409.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/ZDJjYzgzMmU1YWUxZWY0N2I2YjI0OGYy/IMG_2409.jpg
   local_path: images/001_IMG_2409.jpg
-  checksum: bb91ada40eae2f237f16cadf0119bcd793f32f2671bb5d32bcf650d1aba7a1ee
+  checksum: null
 embeds: []
 ---
 

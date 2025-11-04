@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/130128-moutse-community-ra
 published: '2013-01-28'
 published_display: Mon, 28th January 2013
 source_page: 10
-rendered_at: '2025-11-04T15:58:38.368558+00:00'
+rendered_at: '2025-11-04T21:55:27.468022+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/Yjg4OTY5ZWE5ZTVmNWRmYzlkODFiZDNi/IMG_2616.JPG
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/Yjg4OTY5ZWE5ZTVmNWRmYzlkODFiZDNi/IMG_2616.JPG
   local_path: images/001_IMG_2616.JPG
-  checksum: e1256b38dbf29359bf6c4a571a5322d9f953635c6d9f4bddef35dc6c2d739109
+  checksum: null
 embeds:
 - tag: iframe
   src: https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F76807595

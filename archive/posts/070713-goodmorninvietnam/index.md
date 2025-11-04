@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070713-goodmorninvietnam
 published: '2007-07-13'
 published_display: Fri, 13th July 2007
 source_page: 34
-rendered_at: '2025-11-04T16:25:20.556849+00:00'
+rendered_at: '2025-11-04T22:00:26.058487+00:00'
 assets: []
 embeds: []
 ---

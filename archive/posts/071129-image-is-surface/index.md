@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/071129-image-is-surface
 published: '2007-11-29'
 published_display: Thu, 29th November 2007
 source_page: 33
-rendered_at: '2025-11-04T16:25:18.597524+00:00'
+rendered_at: '2025-11-04T22:00:25.134317+00:00'
 assets: []
 embeds: []
 ---

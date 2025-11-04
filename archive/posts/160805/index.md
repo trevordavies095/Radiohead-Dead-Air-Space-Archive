@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/160805-
 published: '2016-08-05'
 published_display: Fri, 5th August 2016
 source_page: 3
-rendered_at: '2025-11-04T15:57:48.553726+00:00'
+rendered_at: '2025-11-04T21:55:09.859302+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/OTA0ZTA1NGFmNjdlZWE0MDcxYTc0N2Vj/exvjwrrgnq.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/OTA0ZTA1NGFmNjdlZWE0MDcxYTc0N2Vj/exvjwrrgnq.jpg
   local_path: images/001_exvjwrrgnq.jpg
-  checksum: a754dc31b008a7706c364a90e33f17f3c5d46001937248c334dbdf690e8b8708
+  checksum: null
 embeds: []
 ---
 

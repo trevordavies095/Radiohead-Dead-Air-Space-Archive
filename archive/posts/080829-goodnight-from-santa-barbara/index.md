@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080829-goodnight-from-sant
 published: '2008-08-29'
 published_display: Fri, 29th August 2008
 source_page: 27
-rendered_at: '2025-11-04T16:24:56.269931+00:00'
+rendered_at: '2025-11-04T22:00:14.474255+00:00'
 assets: []
 embeds: []
 ---

@@ -6,14 +6,16 @@ canonical_url: https://www.radiohead.com/deadairspace/111025-childrens-radio-fou
 published: '2011-10-25'
 published_display: Tue, 25th October 2011
 source_page: 14
-rendered_at: '2025-11-04T15:59:04.878337+00:00'
+rendered_at: '2025-11-04T21:55:48.009087+00:00'
 assets:
-- remote_url: http://childrensradiofoundation.org/images/logo.gif
+- type: image
+  remote_url: http://childrensradiofoundation.org/images/logo.gif
   local_path: images/001_logo.gif
-  checksum: 7697100370d73e9a9e7b79008f7999c3208dc36fd5ce65ca254e4474c4fc0c1c
-- remote_url: http://soundcloud.com/images/soundcloud-logo-sc.png
+  checksum: null
+- type: image
+  remote_url: http://soundcloud.com/images/soundcloud-logo-sc.png
   local_path: images/002_soundcloud-logo-sc.png
-  checksum: fbf4b8f93472631ba7b7059163476744da0f396d588fc331edc776bc28dc7931
+  checksum: null
 embeds: []
 ---
 

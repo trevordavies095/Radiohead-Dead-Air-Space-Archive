@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/110618-post-plastic-people
 published: '2011-06-18'
 published_display: Sat, 18th June 2011
 source_page: 16
-rendered_at: '2025-11-04T15:59:09.796064+00:00'
+rendered_at: '2025-11-04T21:55:55.227297+00:00'
 assets: []
 embeds: []
 ---

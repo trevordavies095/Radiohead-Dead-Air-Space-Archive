@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/090624-office-chart-for-vi
 published: '2009-06-24'
 published_display: Wed, 24th June 2009
 source_page: 22
-rendered_at: '2025-11-04T16:24:37.248189+00:00'
+rendered_at: '2025-11-04T22:00:09.003093+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/OTNhZjk4Y2UwZDE4MzAxZTBiZDViOTc5/F1070001.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/OTNhZjk4Y2UwZDE4MzAxZTBiZDViOTc5/F1070001.jpg
   local_path: images/001_F1070001.jpg
-  checksum: a3a4211f9228c4f891bdfa373d1a0d30708a745e4fa2cc41eaf2391751bb8ae5
+  checksum: null
 embeds: []
 ---
 

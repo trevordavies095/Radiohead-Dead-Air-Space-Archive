@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/091007-room-music
 published: '2009-10-08'
 published_display: Thu, 8th October 2009
 source_page: 21
-rendered_at: '2025-11-04T16:24:33.542603+00:00'
+rendered_at: '2025-11-04T22:00:07.702497+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/ZDViNGJkZjQwNjEwNjJkODMxYTFmM2Vh/78070015.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/ZDViNGJkZjQwNjEwNjJkODMxYTFmM2Vh/78070015.jpg
   local_path: images/001_78070015.jpg
-  checksum: e2c67d2e132b0f3b1520ce9548e240211a4e20ed49ee08d4e6b3546304aa6fc9
+  checksum: null
 embeds: []
 ---
 

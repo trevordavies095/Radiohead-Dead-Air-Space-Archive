@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/120505-dot-connectors
 published: '2012-05-05'
 published_display: Sat, 5th May 2012
 source_page: 13
-rendered_at: '2025-11-04T15:58:46.679979+00:00'
+rendered_at: '2025-11-04T21:55:36.358486+00:00'
 assets: []
 embeds: []
 ---

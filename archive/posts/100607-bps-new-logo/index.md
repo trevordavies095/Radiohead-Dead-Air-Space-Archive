@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/100607-bps-new-logo
 published: '2010-06-07'
 published_display: Mon, 7th June 2010
 source_page: 19
-rendered_at: '2025-11-04T16:24:28.310555+00:00'
+rendered_at: '2025-11-04T22:00:04.626383+00:00'
 assets: []
 embeds: []
 ---

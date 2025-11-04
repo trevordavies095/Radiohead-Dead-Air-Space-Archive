@@ -6,14 +6,16 @@ canonical_url: https://www.radiohead.com/deadairspace/090307-tibet-march-in-lond
 published: '2009-03-07'
 published_display: Sat, 7th March 2009
 source_page: 24
-rendered_at: '2025-11-04T16:24:43.681947+00:00'
+rendered_at: '2025-11-04T22:00:11.007980+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/ZDY2MTc4ZjYwZTZkM2RiMGQ1MzhhM2I3/tibflag1.thumbnai2l.gif
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/ZDY2MTc4ZjYwZTZkM2RiMGQ1MzhhM2I3/tibflag1.thumbnai2l.gif
   local_path: images/001_tibflag1-thumbnai2l.gif
-  checksum: ec2f82c0304458ebfce713a4fa98899d3491abfb6b17667a093d7aa9982a25d1
-- remote_url: https://rsrc.wasteheadquarters.com/MjFhNWFjOTQ3ZWJlZWJhMzFkOGI1NDM5/brown_in_china_wt_r_12.jpg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/MjFhNWFjOTQ3ZWJlZWJhMzFkOGI1NDM5/brown_in_china_wt_r_12.jpg
   local_path: images/002_brown_in_china_wt_r_12.jpg
-  checksum: 165520797e7261a0b0d69ce97d1776e97a608c11ca270dfe0fc0ef9a2f92d1c5
+  checksum: null
 embeds: []
 ---
 

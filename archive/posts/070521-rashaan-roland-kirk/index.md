@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/070521-rashaan-roland-kirk
 published: '2007-05-21'
 published_display: Mon, 21st May 2007
 source_page: 34
-rendered_at: '2025-11-04T16:25:22.426362+00:00'
+rendered_at: '2025-11-04T22:00:26.236639+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/MDYwZWQ2N2IxNmYyZDEzMmFhNjhiZDNl/images.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/MDYwZWQ2N2IxNmYyZDEzMmFhNjhiZDNl/images.jpg
   local_path: images/001_images.jpg
-  checksum: 5e48d78035186db0a293aa868245ce650124d02f8db7f676d1d5f2c87b8c3e20
+  checksum: null
 embeds: []
 ---
 

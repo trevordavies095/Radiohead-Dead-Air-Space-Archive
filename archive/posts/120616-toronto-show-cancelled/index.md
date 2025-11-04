@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/120616-toronto-show-cancel
 published: '2012-06-16'
 published_display: Sat, 16th June 2012
 source_page: 13
-rendered_at: '2025-11-04T15:58:46.577482+00:00'
+rendered_at: '2025-11-04T21:55:36.051048+00:00'
 assets: []
 embeds: []
 ---

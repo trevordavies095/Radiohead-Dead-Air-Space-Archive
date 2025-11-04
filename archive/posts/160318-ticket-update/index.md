@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/160318-ticket-update
 published: '2016-03-18'
 published_display: Fri, 18th March 2016
 source_page: 8
-rendered_at: '2025-11-04T15:58:18.601643+00:00'
+rendered_at: '2025-11-04T21:55:22.437080+00:00'
 assets: []
 embeds: []
 ---

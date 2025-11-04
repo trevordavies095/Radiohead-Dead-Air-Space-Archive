@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070210-true-to-form
 published: '2007-02-10'
 published_display: Sat, 10th February 2007
 source_page: 38
-rendered_at: '2025-11-04T16:25:34.577673+00:00'
+rendered_at: '2025-11-04T22:00:29.330387+00:00'
 assets: []
 embeds: []
 ---

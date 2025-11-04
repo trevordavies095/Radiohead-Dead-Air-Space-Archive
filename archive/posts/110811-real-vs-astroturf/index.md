@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/110811-real-vs-astroturf
 published: '2011-08-11'
 published_display: Thu, 11th August 2011
 source_page: 15
-rendered_at: '2025-11-04T15:59:06.936318+00:00'
+rendered_at: '2025-11-04T21:55:50.213580+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/ZjRkZjIyNmE1YmFjNzM0NWJkNmVmNjE3/Albertatarsands001.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/ZjRkZjIyNmE1YmFjNzM0NWJkNmVmNjE3/Albertatarsands001.jpg
   local_path: images/001_Albertatarsands001.jpg
-  checksum: 9d72555c0f0601b04b827266192d3a6bc4b22af392030d6fc230f236fe68c4d5
+  checksum: null
 embeds: []
 ---
 

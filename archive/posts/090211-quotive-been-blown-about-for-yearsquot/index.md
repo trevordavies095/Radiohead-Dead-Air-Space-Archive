@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/090211-quotive-been-blown-
 published: '2009-02-11'
 published_display: Wed, 11th February 2009
 source_page: 24
-rendered_at: '2025-11-04T16:24:44.637221+00:00'
+rendered_at: '2025-11-04T22:00:11.173899+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/MWIyNDEwYTRkMzU5OThlN2YwYjQyNDI3/12_soap.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/MWIyNDEwYTRkMzU5OThlN2YwYjQyNDI3/12_soap.jpg
   local_path: images/001_12_soap.jpg
-  checksum: b9833f30c16a26a4ef38318d878e7833b8aee29ff093291f71c994c3d4e0e344
+  checksum: null
 embeds: []
 ---
 

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060217-i-was-looking-for-a
 published: '2006-02-17'
 published_display: Fri, 17th February 2006
 source_page: 43
-rendered_at: '2025-11-04T16:26:03.722279+00:00'
+rendered_at: '2025-11-04T22:00:35.872276+00:00'
 assets: []
 embeds: []
 ---

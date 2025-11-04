@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/081209-rest-in-peace-dear-
 published: '2008-12-09'
 published_display: Tue, 9th December 2008
 source_page: 25
-rendered_at: '2025-11-04T16:24:46.148543+00:00'
+rendered_at: '2025-11-04T22:00:11.778379+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/YWYyNjYwZmEwZmM3Y2RhMjc4YTk5Mzg2/tnybag.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/YWYyNjYwZmEwZmM3Y2RhMjc4YTk5Mzg2/tnybag.jpg
   local_path: images/001_tnybag.jpg
-  checksum: 12b5290c1075f841875ed71ee1f5999f60d930ed0da509ed170ccf12c67ceeec
+  checksum: null
 embeds: []
 ---
 

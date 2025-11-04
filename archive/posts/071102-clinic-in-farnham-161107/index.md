@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/071102-clinic-in-farnham-1
 published: '2007-11-02'
 published_display: Fri, 2nd November 2007
 source_page: 33
-rendered_at: '2025-11-04T16:25:18.795046+00:00'
+rendered_at: '2025-11-04T22:00:25.293716+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/MTY1NjQzODlkZjFiYzUzNWQwNGVjYjNi/NOTICIAS.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/MTY1NjQzODlkZjFiYzUzNWQwNGVjYjNi/NOTICIAS.jpg
   local_path: images/001_NOTICIAS.jpg
-  checksum: a49ffbfc745f9c56b218d19107827e93c5fa82a37af6d2248b4426a99bb997be
+  checksum: null
 embeds: []
 ---
 

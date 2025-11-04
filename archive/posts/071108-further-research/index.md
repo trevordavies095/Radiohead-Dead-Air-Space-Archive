@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/071108-further-research
 published: '2007-11-08'
 published_display: Thu, 8th November 2007
 source_page: 33
-rendered_at: '2025-11-04T16:25:18.733227+00:00'
+rendered_at: '2025-11-04T22:00:25.256957+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/OGJiM2E3N2Y4MjY1NzNhZGExZTY0ODdl/bb.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/OGJiM2E3N2Y4MjY1NzNhZGExZTY0ODdl/bb.jpg
   local_path: images/001_bb.jpg
-  checksum: bcbf9b15f4970fe96251862a7035e60b9c3885c0932d1bc76456ba922fa13a60
+  checksum: null
 embeds: []
 ---
 

@@ -6,26 +6,32 @@ canonical_url: https://www.radiohead.com/deadairspace/110720-the-king-of-limbs-f
 published: '2011-07-21'
 published_display: Thu, 21st July 2011
 source_page: 15
-rendered_at: '2025-11-04T15:59:07.669839+00:00'
+rendered_at: '2025-11-04T21:55:50.556608+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/NjAyNWYyOWI2NzM3OTdlNzViODNmOTBm/ftb1.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/NjAyNWYyOWI2NzM3OTdlNzViODNmOTBm/ftb1.jpg
   local_path: images/001_ftb1.jpg
-  checksum: b64adc26069a38dfa1f98ef53a385db703c8a71758b45224b9eeba361a63dc63
-- remote_url: https://rsrc.wasteheadquarters.com/YTY3ZDQzZjAyOWFkM2ZmMGQzNTk1ZDBj/ftb2.jpg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/YTY3ZDQzZjAyOWFkM2ZmMGQzNTk1ZDBj/ftb2.jpg
   local_path: images/002_ftb2.jpg
-  checksum: 97e3354066c06a8fc72d29861e2272a855138ad4125e776056faaa05dd6e99e2
-- remote_url: https://rsrc.wasteheadquarters.com/MTQ0MTBmMzA1OTFlNzg4MWRhYTA4MWRm/ftb3.jpg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/MTQ0MTBmMzA1OTFlNzg4MWRhYTA4MWRm/ftb3.jpg
   local_path: images/003_ftb3.jpg
-  checksum: f638e47eaf7fcc65cb18559a08e512f6b4a1a8c0e83572906a29b955fae89a55
-- remote_url: https://rsrc.wasteheadquarters.com/MzQ4NDFlN2ZkMzA3N2I0NTQwNzdkZWZk/ftb4.jpg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/MzQ4NDFlN2ZkMzA3N2I0NTQwNzdkZWZk/ftb4.jpg
   local_path: images/004_ftb4.jpg
-  checksum: 7d884080a213d1ec658b2036a9f9052ebd97d988e65b2b5be655043ac14d4f57
-- remote_url: https://rsrc.wasteheadquarters.com/YTczYTNhNWQ3NDAwYjZmY2VjODgwOTc1/ftb5.jpg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/YTczYTNhNWQ3NDAwYjZmY2VjODgwOTc1/ftb5.jpg
   local_path: images/005_ftb5.jpg
-  checksum: 202322e6ae3eeca3d608813416655b751af4f2cfd558161970c8d538b5b1b5f7
-- remote_url: https://rsrc.wasteheadquarters.com/OGQwM2YwMGE5NzFiNDJjYjkzMTA3ODcy/ftb6.jpg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/OGQwM2YwMGE5NzFiNDJjYjkzMTA3ODcy/ftb6.jpg
   local_path: images/006_ftb6.jpg
-  checksum: 0545da78a298937faebe8f812c34388c385b9b028db4b1c1c0f023e07bf70c04
+  checksum: null
 embeds: []
 ---
 

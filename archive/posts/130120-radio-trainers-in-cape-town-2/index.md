@@ -6,14 +6,16 @@ canonical_url: https://www.radiohead.com/deadairspace/130120-radio-trainers-in-c
 published: '2013-01-20'
 published_display: Sun, 20th January 2013
 source_page: 11
-rendered_at: '2025-11-04T15:58:41.162115+00:00'
+rendered_at: '2025-11-04T21:55:29.375492+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/ZjQxM2JmYTdjYmM4ZmZmNjMzNDdkMjZk/IMG_2134.JPG
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/ZjQxM2JmYTdjYmM4ZmZmNjMzNDdkMjZk/IMG_2134.JPG
   local_path: images/001_IMG_2134.JPG
-  checksum: 17bbadea0e7f0222803257cd338fb68f218921d516784f6b796b047bc1fcb563
-- remote_url: https://rsrc.wasteheadquarters.com/NjAyNjQ3YjVmNmJlNmM2MmRhMGZhMjFm/IMG_2148.JPG
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/NjAyNjQ3YjVmNmJlNmM2MmRhMGZhMjFm/IMG_2148.JPG
   local_path: images/002_IMG_2148.JPG
-  checksum: ceae75a0c4ed36102b61e159677598c21a5eb5dbc3bce2b93ba5dc595e388b80
+  checksum: null
 embeds:
 - tag: iframe
   src: https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F75732863

@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/111109-radiohead-from-the-
 published: '2011-11-09'
 published_display: Wed, 9th November 2011
 source_page: 14
-rendered_at: '2025-11-04T15:59:03.769883+00:00'
+rendered_at: '2025-11-04T21:55:47.602217+00:00'
 assets: []
 embeds:
 - tag: iframe
   src: http://www.youtube.com/embed/D2084nQbmvk?rel=0
+  provider: youtube
 ---
 
 <div style="height: 235px; float: left;"><img align="left" alt="" border="0" class="imageleft" height="228" src="http://www.radiohead.com/deadairspace/images/tkolbasement.jpg" width="164"/>

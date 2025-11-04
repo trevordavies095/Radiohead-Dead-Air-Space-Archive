@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/091224-christmas-eve
 published: '2009-12-24'
 published_display: Thu, 24th December 2009
 source_page: 20
-rendered_at: '2025-11-04T16:24:29.494752+00:00'
+rendered_at: '2025-11-04T22:00:06.203497+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/YTVkYmQ4NzViMDNkNGI0YjkyZWU1ZjIx/time-lapse.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/YTVkYmQ4NzViMDNkNGI0YjkyZWU1ZjIx/time-lapse.jpg
   local_path: images/001_time-lapse.jpg
-  checksum: a7f0961046cd4f44b918b6bf4c89383fd4e78be2e3b15ec916dd1cc256be22b3
+  checksum: null
 embeds: []
 ---
 

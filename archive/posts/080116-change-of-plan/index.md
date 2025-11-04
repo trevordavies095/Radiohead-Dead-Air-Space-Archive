@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080116-change-of-plan
 published: '2008-01-16'
 published_display: Wed, 16th January 2008
 source_page: 31
-rendered_at: '2025-11-04T16:25:14.080716+00:00'
+rendered_at: '2025-11-04T22:00:23.250848+00:00'
 assets: []
 embeds: []
 ---

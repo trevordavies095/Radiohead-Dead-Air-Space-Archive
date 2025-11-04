@@ -5,3 +5,12 @@
 /dead_air_space_archiver_plan.md
 /requirements.txt
 /tests
+
+# Locally downloaded media (videos stay out of the repo)
+archive/posts/*/videos/
+archive/**/*.mp4
+archive/**/*.webm
+archive/**/*.mkv
+secrets/youtube_cookies.txt
+requirements-video.txt
+yt_dlp_integration_plan.md

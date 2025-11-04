@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/080115-jigsaw-falling-into
 published: '2008-01-15'
 published_display: Tue, 15th January 2008
 source_page: 31
-rendered_at: '2025-11-04T16:25:14.943474+00:00'
+rendered_at: '2025-11-04T22:00:23.363337+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/ZTlhYjRhNzUyOTE5MDE5OTIzN2UwMjQy/aw33.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/ZTlhYjRhNzUyOTE5MDE5OTIzN2UwMjQy/aw33.jpg
   local_path: images/001_aw33.jpg
-  checksum: 8f63a2fe0fc03ddfff49a97b7c440ef569845a630fa7b1f50a7f8bf4858fac0b
+  checksum: null
 embeds: []
 ---
 

@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/160512-
 published: '2016-05-12'
 published_display: Thu, 12th May 2016
 source_page: 7
-rendered_at: '2025-11-04T15:58:16.976250+00:00'
+rendered_at: '2025-11-04T21:55:18.524481+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/Y2Y0NTYxNGVjZmE1Mzk5MjcxOWRmN2Nk/spectre.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/Y2Y0NTYxNGVjZmE1Mzk5MjcxOWRmN2Nk/spectre.jpg
   local_path: images/001_spectre.jpg
-  checksum: 98e3be693f35ee105728fdbafb38f1bff71eeb0538c3ac59ef602a9646934fd5
+  checksum: null
 embeds: []
 ---
 

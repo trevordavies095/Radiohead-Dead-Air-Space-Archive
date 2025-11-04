@@ -6,13 +6,14 @@ canonical_url: https://www.radiohead.com/deadairspace/130125-kurara-fm-989-you-h
 published: '2013-01-25'
 published_display: Fri, 25th January 2013
 source_page: 10
-rendered_at: '2025-11-04T15:58:38.674090+00:00'
+rendered_at: '2025-11-04T21:55:27.933580+00:00'
 assets: []
 embeds:
 - tag: iframe
   src: https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F76388806
 - tag: iframe
   src: http://player.vimeo.com/video/57479499
+  provider: vimeo
 ---
 
 <p></p><p><p>Kurara FM is in a former women&Atilde;&cent;&euro; s prison, half rebuilt with a corridor and a dozen rooms to house the radio station. It&Atilde;&cent;&euro; s in the small town of Kuruman 2 &Atilde;&fnof;&sbquo;&Atilde;&fnof;&sbquo;&frac12; hours&Atilde;&cent;&euro;  drive from the mining centre of Kimberley. Sam, Lesedi, myself and Lebo flew into Kimberley early Wednesday morning and drove to Kuruman. &nbsp;</p>

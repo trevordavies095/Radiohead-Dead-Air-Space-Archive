@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/130124-a-fun-interview-in-
 published: '2013-01-24'
 published_display: Thu, 24th January 2013
 source_page: 10
-rendered_at: '2025-11-04T15:58:38.828979+00:00'
+rendered_at: '2025-11-04T21:55:27.974719+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/M2E3Yjg3M2Q0NmI2NjcwMzRlMGQxZDFm/IMG_2268.jpeg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/M2E3Yjg3M2Q0NmI2NjcwMzRlMGQxZDFm/IMG_2268.jpeg
   local_path: images/001_IMG_2268.jpeg
-  checksum: 8af54a06d497f917467d8848a0ceefd71b76008e649ce7a8f8cc1367e9c2af03
+  checksum: null
 embeds:
 - tag: iframe
   src: https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F76118460

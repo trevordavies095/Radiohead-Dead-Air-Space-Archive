@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/110208-the-dignity-revolut
 published: '2011-02-08'
 published_display: Tue, 8th February 2011
 source_page: 17
-rendered_at: '2025-11-04T16:24:26.707025+00:00'
+rendered_at: '2025-11-04T22:00:01.900981+00:00'
 assets: []
 embeds: []
 ---

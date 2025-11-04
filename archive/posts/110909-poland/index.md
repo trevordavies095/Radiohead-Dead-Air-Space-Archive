@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/110909-poland
 published: '2011-09-09'
 published_display: Fri, 9th September 2011
 source_page: 15
-rendered_at: '2025-11-04T15:59:06.327019+00:00'
+rendered_at: '2025-11-04T21:55:49.774864+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/NWNkMGI4ZjI5NmRjYzQ2OTFiMmQ3NzJi/IMG_1920.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/NWNkMGI4ZjI5NmRjYzQ2OTFiMmQ3NzJi/IMG_1920.jpg
   local_path: images/001_IMG_1920.jpg
-  checksum: f96b965ece83f80484a3ddf7182db1db1afeaeacf3046a1d8552159b593d73e9
+  checksum: null
 embeds: []
 ---
 

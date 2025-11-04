@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/071119-httpwwwfoecouk
 published: '2007-11-19'
 published_display: Mon, 19th November 2007
 source_page: 33
-rendered_at: '2025-11-04T16:25:18.652007+00:00'
+rendered_at: '2025-11-04T22:00:25.174535+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/ZmQwM2Q5YjRkMmRmZjEwZjNiZjQ5NmY5/big_ask_small_new.gif
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/ZmQwM2Q5YjRkMmRmZjEwZjNiZjQ5NmY5/big_ask_small_new.gif
   local_path: images/001_big_ask_small_new.gif
-  checksum: b1b529334337ac7d96542ce5edf7b3380dc15774307d8f4057d48e47596e5539
+  checksum: null
 embeds: []
 ---
 

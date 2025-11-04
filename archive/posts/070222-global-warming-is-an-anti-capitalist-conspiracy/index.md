@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070222-global-warming-is-a
 published: '2007-02-22'
 published_display: Thu, 22nd February 2007
 source_page: 37
-rendered_at: '2025-11-04T16:25:33.360000+00:00'
+rendered_at: '2025-11-04T22:00:28.873308+00:00'
 assets: []
 embeds: []
 ---

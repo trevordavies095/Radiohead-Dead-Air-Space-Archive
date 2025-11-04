@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060404-like-anybody-gives-
 published: '2006-04-04'
 published_display: Tue, 4th April 2006
 source_page: 42
-rendered_at: '2025-11-04T16:25:58.676510+00:00'
+rendered_at: '2025-11-04T22:00:34.846197+00:00'
 assets: []
 embeds: []
 ---

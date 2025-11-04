@@ -1,6 +1,25 @@
-# Radiohead's Dead Air Space Archive
+# Dead Air Space Archiver
 
-https://radiohead.com/deadairspace
+Utilities for mirroring the posts and assets hosted at <https://radiohead.com/deadairspace>. The tool reproduces the canonical post metadata, downloads associated media, and emits an archive tree that can be browsed offline.
+
+## Quick Start
+- Install dependencies: `python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt`
+- Run the archiver: `python archive_dead_air_space.py --output archive`
+- Resume later runs without re-downloading unchanged posts: `python archive_dead_air_space.py --output archive --resume`
+
+CLI flags of note:
+- `--max-posts N` – only render N posts (useful for smoke tests)
+- `--max-pages N` – stop after N pagination pages
+- `--dry-run` – fetch metadata without writing files
+- `--videos {skip, attempt, force}` – control embedded video downloads (requires `yt-dlp`)
+- `--yt-cookies path/to/cookies.txt` – supply YouTube cookies (Netscape format) for authenticated downloads
+- `--verbose` – enable debug logging for troubleshooting
+
+## Video Downloads
+- Install optional tooling: `pip install -r requirements-video.txt` (installs `yt-dlp`).
+- Default `--videos attempt` tries when `yt-dlp` is present and otherwise skips with a warning.
+- Use `--videos force` to require downloads (script exits if `yt-dlp` missing), or `--videos skip` to ignore embedded media.
+- YouTube rate limits and bot checks often require an authenticated cookie jar. Export browser cookies in Netscape format (e.g. via the “Get cookies.txt” extension) and pass the file with `--yt-cookies`. Keep the file private.
 
 ## Output Layout
 ```
@@ -13,9 +32,17 @@ archive/
       index.md
       images/
       assets/
+      videos/
 ```
 
 `manifest.json` aggregates per-post metadata and checksums, while `state.json` is written to support resumable crawls.
+
+## Tests
+Install `pytest` (e.g. `pip install pytest`) and run `pytest`.
+
+## Known Limitations
+- Embedded media downloads rely on `yt-dlp`; unsupported providers or failed downloads are logged and the original embed URL kept in front matter.
+- Asset re-downloading is skipped based on remote URL and checksum; remote replacements served under the same URL may need a manual cleanup.
 
 ## Archived Posts
 
@@ -184,7 +211,7 @@ Browse individual post exports directly from the repository. Each link below poi
 - [Atoms for Peace (Fri, 7th September 2012)](archive/posts/120907-atoms-for-peace/index.md)
 - [The Scott Johnson Bursary Fund for Young Musicians (Wed, 8th August 2012)](archive/posts/120808-the-scott-johnson-bursary-fund-for-young-musicians/index.md)
 - [LIke ripples on a blank shore. (Thu, 26th July 2012)](archive/posts/120726-like-ripples-on-a-blank-shore/index.md)
-- [120726 (Thu, 26th July 2012)](archive/posts/120726/index.md)
+- [_ (Thu, 26th July 2012)](archive/posts/120726/index.md)
 - [fragile (Mon, 23rd July 2012)](archive/posts/120723-fragile/index.md)
 - [Rescheduled European Dates (Wed, 27th June 2012)](archive/posts/120627-rescheduled-european-dates/index.md)
 - [120627 (Wed, 27th June 2012)](archive/posts/120627/index.md)
@@ -239,7 +266,7 @@ Browse individual post exports directly from the repository. Each link below poi
 - [news international r.i.p. (Mon, 11th July 2011)](archive/posts/110711-news-international-rip/index.md)
 - [Caribou/Jacques Greene Remixes (Fri, 1st July 2011)](archive/posts/110701-cariboujacques-greene-remixes/index.md)
 - [fuselage (Tue, 28th June 2011)](archive/posts/110628-fuselage/index.md)
-- [110622 (Wed, 22nd June 2011)](archive/posts/110622/index.md)
+- [_ (Wed, 22nd June 2011)](archive/posts/110622/index.md)
 - [Radiohead - Staircase (live From The Basement) (Tue, 21st June 2011)](archive/posts/110621-radiohead-staircase-live-from-the-basement/index.md)
 - [post plastic people hopeful office chart (Sat, 18th June 2011)](archive/posts/110618-post-plastic-people-hopeful-office-chart/index.md)
 - [Domino Records Radio Week (Tue, 14th June 2011)](archive/posts/110614-domino-records-radio-week/index.md)
@@ -296,7 +323,7 @@ Browse individual post exports directly from the repository. Each link below poi
 - [6 Music (Wed, 3rd March 2010)](archive/posts/100303-6-music/index.md)
 - [Ticket Info (Thu, 25th February 2010)](archive/posts/100225-ticket-info/index.md)
 - [?????? New Shows (Thu, 25th February 2010)](archive/posts/100225-new-shows/index.md)
-- [100223 (Tue, 23rd February 2010)](archive/posts/100223/index.md)
+- [_ (Tue, 23rd February 2010)](archive/posts/100223/index.md)
 - [Tony Juniper/ Cambridge Corn Exchange (Wed, 10th February 2010)](archive/posts/100210-tony-juniper-cambridge-corn-exchange/index.md)
 - [a week of number 13s (Tue, 9th February 2010)](archive/posts/100209-a-week-of-number-13s/index.md)
 - [Radiohead for Haiti (Fri, 22nd January 2010)](archive/posts/100122-radiohead-for-haiti-2/index.md)
@@ -305,7 +332,7 @@ Browse individual post exports directly from the repository. Each link below poi
 - [christmas eve (Thu, 24th December 2009)](archive/posts/091224-christmas-eve/index.md)
 - [copenhagen  climate summit (Sat, 19th December 2009)](archive/posts/091219-copenhagen-climate-summit/index.md)
 - [A rant and some other stuff (Sat, 19th December 2009)](archive/posts/091219-a-rant-and-some-other-stuff/index.md)
-- [091219 (Sat, 19th December 2009)](archive/posts/091219/index.md)
+- [_ (Sat, 19th December 2009)](archive/posts/091219/index.md)
 - [not finished (Fri, 18th December 2009)](archive/posts/091218-not-finished/index.md)
 - [expo (Fri, 18th December 2009)](archive/posts/091218-expo/index.md)
 - [ditto (Fri, 18th December 2009)](archive/posts/091218-ditto/index.md)
@@ -324,7 +351,7 @@ Browse individual post exports directly from the repository. Each link below poi
 - [Century of piano (Sun, 18th October 2009)](archive/posts/091018-century-of-piano/index.md)
 - [Room Music (Thu, 8th October 2009)](archive/posts/091007-room-music/index.md)
 - [Hey what are you doing tomorrow night? (Fri, 2nd October 2009)](archive/posts/091002-hey-what-are-you-doing-tomorrow-night/index.md)
-- [090929 (Tue, 29th September 2009)](archive/posts/090929/index.md)
+- [?????? (Tue, 29th September 2009)](archive/posts/090929/index.md)
 - [office chart for grey dewy mornings (Mon, 14th September 2009)](archive/posts/090914-office-chart-for-grey-dewy-mornings/index.md)
 - [age of StuPid StupID StuPid (Mon, 14th September 2009)](archive/posts/090914-age-of-stupid-stupid-stupid/index.md)
 - [FeelingPulledApartbyHorses/ TheHollowEarth 12inch (Thu, 3rd September 2009)](archive/posts/090903-feelingpulledapartbyhorses-thehollowearth-12inch/index.md)
@@ -385,7 +412,7 @@ Browse individual post exports directly from the repository. Each link below poi
 - [Ed and Jonny in Tokyo (Tue, 21st October 2008)](archive/posts/081021-ed-and-jonny-in-tokyo/index.md)
 - [tokyo (Wed, 15th October 2008)](archive/posts/081015-tokyo/index.md)
 - [choose high quality! (Mon, 13th October 2008)](archive/posts/081013-choose-high-quality/index.md)
-- [081013 (Mon, 13th October 2008)](archive/posts/081013/index.md)
+- [_ (Mon, 13th October 2008)](archive/posts/081013/index.md)
 - [Japan (Wed, 8th October 2008)](archive/posts/081008-japan/index.md)
 - [Video for Reckoner (Wed, 1st October 2008)](archive/posts/081001-video-for-reckoner/index.md)
 - [Jonny in Boston (Fri, 26th September 2008)](archive/posts/080926-jonny-in-boston/index.md)
@@ -426,8 +453,8 @@ Browse individual post exports directly from the repository. Each link below poi
 - [080629-2 (Sun, 29th June 2008)](archive/posts/080629-2/index.md)
 - [080629 (Sun, 29th June 2008)](archive/posts/080629/index.md)
 - [080628-3 (Sat, 28th June 2008)](archive/posts/080628-3/index.md)
-- [080628-2 (Sat, 28th June 2008)](archive/posts/080628-2/index.md)
-- [080628 (Sat, 28th June 2008)](archive/posts/080628/index.md)
+- [- (Sat, 28th June 2008)](archive/posts/080628-2/index.md)
+- [__ (Sat, 28th June 2008)](archive/posts/080628/index.md)
 - [One Little Plane  - &quot;Until&quot; (Fri, 27th June 2008)](archive/posts/080627-one-little-plane-quotuntilquot/index.md)
 - [malahide in rainbow (Fri, 27th June 2008)](archive/posts/080627-malahide-in-rainbow/index.md)
 - [Glasgow Green (Fri, 27th June 2008)](archive/posts/080627-glasgow-green/index.md)
@@ -489,7 +516,7 @@ Browse individual post exports directly from the repository. Each link below poi
 - [&nbsp;&nbsp; (Mon, 24th December 2007)](archive/posts/071224-nbspnbsp/index.md)
 - [&nbsp;&nbsp;&nbsp; (Sun, 23rd December 2007)](archive/posts/071223-nbspnbspnbsp/index.md)
 - [Happy Season! (Sun, 23rd December 2007)](archive/posts/071223-happy-season/index.md)
-- [071222 (Sat, 22nd December 2007)](archive/posts/071222/index.md)
+- [__ (Sat, 22nd December 2007)](archive/posts/071222/index.md)
 - [Best Foot Forward (Wed, 19th December 2007)](archive/posts/071219-best-foot-forward/index.md)
 - [press (Sun, 16th December 2007)](archive/posts/071216-press/index.md)
 - [WEb Cam ON! (Tue, 11th December 2007)](archive/posts/071211-web-cam-on/index.md)
@@ -550,9 +577,9 @@ Browse individual post exports directly from the repository. Each link below poi
 - [Back at the House (Tue, 27th March 2007)](archive/posts/070326-back-at-the-house/index.md)
 - [Mixing It (Sat, 24th March 2007)](archive/posts/070324-mixing-it/index.md)
 - [At the House (Fri, 23rd March 2007)](archive/posts/070323-at-the-house/index.md)
-- [070320 (Tue, 20th March 2007)](archive/posts/070320/index.md)
+- [. (Tue, 20th March 2007)](archive/posts/070320/index.md)
 - [Winter 07 London (Mon, 19th March 2007)](archive/posts/070319-winter-07-london/index.md)
-- [070318 (Sun, 18th March 2007)](archive/posts/070318/index.md)
+- [. (Sun, 18th March 2007)](archive/posts/070318/index.md)
 - [todays tears (Sat, 17th March 2007)](archive/posts/070317-todays-tears/index.md)
 - [Studio Photographs (Fri, 16th March 2007)](archive/posts/070316-studio-photographs/index.md)
 - [Studio Photographs (Thu, 15th March 2007)](archive/posts/070315-studio-photographs/index.md)
@@ -565,7 +592,7 @@ Browse individual post exports directly from the repository. Each link below poi
 - ['Grave errors' (Fri, 16th February 2007)](archive/posts/070216-grave-errors/index.md)
 - [dump nuclear (Fri, 16th February 2007)](archive/posts/070216-dump-nuclear/index.md)
 - [True to Form (Sat, 10th February 2007)](archive/posts/070210-true-to-form/index.md)
-- [070209 (Fri, 9th February 2007)](archive/posts/070209/index.md)
+- [\]] (Fri, 9th February 2007)](archive/posts/070209/index.md)
 - [who could i be talking about? (Thu, 8th February 2007)](archive/posts/070208-who-could-i-be-talking-about/index.md)
 - [Doukutsu Monogatari (Thu, 8th February 2007)](archive/posts/070208-doukutsu-monogatari/index.md)
 - [.....wow, man, like, crazy....... (Tue, 6th February 2007)](archive/posts/070206-wow-man-like-crazy/index.md)
@@ -625,13 +652,13 @@ Browse individual post exports directly from the repository. Each link below poi
 - [coming off tune (Thu, 25th May 2006)](archive/posts/060525-coming-off-tune/index.md)
 - [Thanks (Tue, 23rd May 2006)](archive/posts/060523-thanks/index.md)
 - [My mum (Thu, 11th May 2006)](archive/posts/060511-my-mum/index.md)
-- [060511 (Thu, 11th May 2006)](archive/posts/060511/index.md)
+- [!!!! (Thu, 11th May 2006)](archive/posts/060511/index.md)
 - [Cancelled 2nd Night Show in Amsterdam (Wed, 10th May 2006)](archive/posts/060510-cancelled-2nd-night-show-in-amsterdam/index.md)
 - [copehagen (Mon, 8th May 2006)](archive/posts/060508-copehagen/index.md)
 - [rehearsalweek (Wed, 26th April 2006)](archive/posts/060426-rehearsalweek/index.md)
 - [rehearsalweek (Mon, 24th April 2006)](archive/posts/060424-rehearsalweek/index.md)
 - [happy easter (Sun, 16th April 2006)](archive/posts/060416-happy-easter/index.md)
-- [060405 (Wed, 5th April 2006)](archive/posts/060405/index.md)
+- [_______ (Wed, 5th April 2006)](archive/posts/060405/index.md)
 - [like anybody gives a rats arse:) (Tue, 4th April 2006)](archive/posts/060404-like-anybody-gives-a-rats-arse/index.md)
 - [question for the minister (Tue, 28th March 2006)](archive/posts/060328-question-for-the-minister/index.md)
 - [la la land (Mon, 20th March 2006)](archive/posts/060320-la-la-land/index.md)
@@ -685,7 +712,7 @@ Browse individual post exports directly from the repository. Each link below poi
 - [stroking some topiary...potato lakes (Sun, 21st August 2005)](archive/posts/050821-stroking-some-topiarypotato-lakes/index.md)
 - [Hey!  I'm in an acoustic frame of mind.... (Sun, 21st August 2005)](archive/posts/050821-hey-im-in-an-acoustic-frame-of-mind/index.md)
 - [here we go (Sun, 21st August 2005)](archive/posts/050821-here-we-go/index.md)
-- [050821 (Sun, 21st August 2005)](archive/posts/050821/index.md)
+- [... (Sun, 21st August 2005)](archive/posts/050821/index.md)
 - [mornin' m'lud (Sat, 20th August 2005)](archive/posts/050819-mornin-mlud/index.md)
 - [...tonight... (Fri, 19th August 2005)](archive/posts/050819-tonight/index.md)
 - [Phil Spectral (Fri, 19th August 2005)](archive/posts/050819-phil-spectral/index.md)
@@ -693,7 +720,7 @@ Browse individual post exports directly from the repository. Each link below poi
 - [jonny on clav without chair (Fri, 19th August 2005)](archive/posts/050819-jonny-on-clav-without-chair/index.md)
 - [if you... (Fri, 19th August 2005)](archive/posts/050819-if-you/index.md)
 - [...go down... (Fri, 19th August 2005)](archive/posts/050819-go-down/index.md)
-- [050819 (Fri, 19th August 2005)](archive/posts/050819/index.md)
+- [... (Fri, 19th August 2005)](archive/posts/050819/index.md)
 - [devarahi rules (Thu, 18th August 2005)](archive/posts/050818-devarahi-rules/index.md)
 - [announcement which may be of interest (Wed, 17th August 2005)](archive/posts/050817-announcement-which-may-be-of-interest/index.md)
 - [is anybody there? (Tue, 16th August 2005)](archive/posts/050816-is-anybody-there/index.md)

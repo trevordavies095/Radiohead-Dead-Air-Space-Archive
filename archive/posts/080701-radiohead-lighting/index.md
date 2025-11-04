@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080701-radiohead-lighting
 published: '2008-07-01'
 published_display: Tue, 1st July 2008
 source_page: 28
-rendered_at: '2025-11-04T16:24:59.043306+00:00'
+rendered_at: '2025-11-04T22:00:15.325696+00:00'
 assets: []
 embeds: []
 ---

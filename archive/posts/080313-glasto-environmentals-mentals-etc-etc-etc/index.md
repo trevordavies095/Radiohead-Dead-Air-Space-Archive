@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080313-glasto-environmenta
 published: '2008-03-13'
 published_display: Thu, 13th March 2008
 source_page: 30
-rendered_at: '2025-11-04T16:25:09.334031+00:00'
+rendered_at: '2025-11-04T22:00:20.151416+00:00'
 assets: []
 embeds: []
 ---

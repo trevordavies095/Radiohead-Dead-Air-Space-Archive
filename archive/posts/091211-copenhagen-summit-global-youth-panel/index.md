@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/091211-copenhagen-summit-g
 published: '2009-12-11'
 published_display: Fri, 11th December 2009
 source_page: 21
-rendered_at: '2025-11-04T16:24:31.707100+00:00'
+rendered_at: '2025-11-04T22:00:07.276131+00:00'
 assets: []
 embeds: []
 ---

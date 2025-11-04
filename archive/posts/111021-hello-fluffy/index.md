@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/111021-hello-fluffy
 published: '2011-10-21'
 published_display: Fri, 21st October 2011
 source_page: 14
-rendered_at: '2025-11-04T15:59:05.320980+00:00'
+rendered_at: '2025-11-04T21:55:48.142326+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/NzE4YzZhZGU3NGVkNzEzMWVkNTE1Mjkx/_56174211_climate_change_624gr.gif
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/NzE4YzZhZGU3NGVkNzEzMWVkNTE1Mjkx/_56174211_climate_change_624gr.gif
   local_path: images/001__56174211_climate_change_624gr.gif
-  checksum: 8d56ba17100568434653fc111bfab3805582d4f97dc8bff94b4f0278455dfe2b
+  checksum: null
 embeds: []
 ---
 

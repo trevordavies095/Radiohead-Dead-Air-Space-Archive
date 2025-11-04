@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/120726-like-ripples-on-a-b
 published: '2012-07-26'
 published_display: Thu, 26th July 2012
 source_page: 12
-rendered_at: '2025-11-04T15:58:46.119047+00:00'
+rendered_at: '2025-11-04T21:55:35.428872+00:00'
 assets: []
 embeds: []
 ---

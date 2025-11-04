@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/080512-rained-on-in-washin
 published: '2008-05-12'
 published_display: Mon, 12th May 2008
 source_page: 29
-rendered_at: '2025-11-04T16:25:06.215102+00:00'
+rendered_at: '2025-11-04T22:00:18.216262+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/NzFkMDIyZWM4YTllOWM0NDBjYjMyMmMy/jonnyrain2-am-washington.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/NzFkMDIyZWM4YTllOWM0NDBjYjMyMmMy/jonnyrain2-am-washington.jpg
   local_path: images/001_jonnyrain2-am-washington.jpg
-  checksum: 4dbfb50a4b71ef5823743262e651d438a3d62476455557ed24eef6285e835880
+  checksum: null
 embeds: []
 ---
 

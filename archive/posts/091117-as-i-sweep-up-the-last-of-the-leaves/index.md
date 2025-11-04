@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/091117-as-i-sweep-up-the-l
 published: '2009-11-17'
 published_display: Tue, 17th November 2009
 source_page: 21
-rendered_at: '2025-11-04T16:24:32.408235+00:00'
+rendered_at: '2025-11-04T22:00:07.495723+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/ODY0YjU1ZTI2MTdjZjNiNjQ2ZTUzYWFh/84440034_2.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/ODY0YjU1ZTI2MTdjZjNiNjQ2ZTUzYWFh/84440034_2.jpg
   local_path: images/001_84440034_2.jpg
-  checksum: 8b6f500f784644fefa5a09c235b0f5162251342a1d5dbe7189ff524a0c1a7833
+  checksum: null
 embeds: []
 ---
 

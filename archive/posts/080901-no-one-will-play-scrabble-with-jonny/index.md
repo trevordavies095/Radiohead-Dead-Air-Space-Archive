@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/080901-no-one-will-play-sc
 published: '2008-09-01'
 published_display: Mon, 1st September 2008
 source_page: 27
-rendered_at: '2025-11-04T16:24:56.039794+00:00'
+rendered_at: '2025-11-04T22:00:14.434362+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/M2NlYmViNjc2OGRkOGZhM2U0Y2NlYTc1/88170015.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/M2NlYmViNjc2OGRkOGZhM2U0Y2NlYTc1/88170015.jpg
   local_path: images/001_88170015.jpg
-  checksum: ab12baad9d30bd3130726d963c839c738d6a654c200ac171c1dcf24690c238fe
+  checksum: null
 embeds: []
 ---
 

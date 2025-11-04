@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/160524-
 published: '2016-05-24'
 published_display: Tue, 24th May 2016
 source_page: 7
-rendered_at: '2025-11-04T15:58:15.250125+00:00'
+rendered_at: '2025-11-04T21:55:17.449193+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/MTIzMDYwYTFmNTQ4NWY0NWI4NWFkMDA4/y46k5swltn.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/MTIzMDYwYTFmNTQ4NWY0NWI4NWFkMDA4/y46k5swltn.jpg
   local_path: images/001_y46k5swltn.jpg
-  checksum: 865b8f521294add7c9ce4d3335c1d15a15d818ba9d9932e28b28570e6fe8e131
+  checksum: null
 embeds: []
 ---
 

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/071229-f-y-i-if-you-care
 published: '2007-12-29'
 published_display: Sat, 29th December 2007
 source_page: 32
-rendered_at: '2025-11-04T16:25:16.959835+00:00'
+rendered_at: '2025-11-04T22:00:24.061526+00:00'
 assets: []
 embeds: []
 ---

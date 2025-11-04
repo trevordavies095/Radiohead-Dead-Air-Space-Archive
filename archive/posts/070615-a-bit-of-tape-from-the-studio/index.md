@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070615-a-bit-of-tape-from-
 published: '2007-06-15'
 published_display: Fri, 15th June 2007
 source_page: 34
-rendered_at: '2025-11-04T16:25:21.401249+00:00'
+rendered_at: '2025-11-04T22:00:26.128630+00:00'
 assets: []
 embeds: []
 ---

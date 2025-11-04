@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/130724-the-sounds-of-south
 published: '2013-07-24'
 published_display: Wed, 24th July 2013
 source_page: 9
-rendered_at: '2025-11-04T15:58:20.371295+00:00'
+rendered_at: '2025-11-04T21:55:24.093146+00:00'
 assets: []
 embeds: []
 ---

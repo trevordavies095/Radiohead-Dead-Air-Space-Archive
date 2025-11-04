@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/080116-in-store
 published: '2008-01-16'
 published_display: Wed, 16th January 2008
 source_page: 31
-rendered_at: '2025-11-04T16:25:14.347711+00:00'
+rendered_at: '2025-11-04T22:00:23.329599+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/NDMwOWJkMWFjYWU4NzY1OWE1ZTgwMDM1/RTE_MAP.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/NDMwOWJkMWFjYWU4NzY1OWE1ZTgwMDM1/RTE_MAP.jpg
   local_path: images/001_RTE_MAP.jpg
-  checksum: cb1f502b136e22561d5fed68b8c3110bf99be7a8bc6852215e0eb63acd4b050d
+  checksum: null
 embeds: []
 ---
 

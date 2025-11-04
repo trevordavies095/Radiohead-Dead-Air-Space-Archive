@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/091219-a-rant-and-some-oth
 published: '2009-12-19'
 published_display: Sat, 19th December 2009
 source_page: 20
-rendered_at: '2025-11-04T16:24:29.523103+00:00'
+rendered_at: '2025-11-04T22:00:06.240751+00:00'
 assets: []
 embeds: []
 ---

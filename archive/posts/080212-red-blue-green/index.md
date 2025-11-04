@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080212-red-blue-green
 published: '2008-02-12'
 published_display: Tue, 12th February 2008
 source_page: 30
-rendered_at: '2025-11-04T16:25:11.939393+00:00'
+rendered_at: '2025-11-04T22:00:22.444254+00:00'
 assets: []
 embeds: []
 ---

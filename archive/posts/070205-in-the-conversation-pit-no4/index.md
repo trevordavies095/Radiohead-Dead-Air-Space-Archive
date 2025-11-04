@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/070205-in-the-conversation
 published: '2007-02-05'
 published_display: Mon, 5th February 2007
 source_page: 38
-rendered_at: '2025-11-04T16:25:36.406194+00:00'
+rendered_at: '2025-11-04T22:00:29.671684+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/NThmNzZhMjJhNTFjYjAxYmY1ZWE2M2Fk/shakehandwithasmackhead.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/NThmNzZhMjJhNTFjYjAxYmY1ZWE2M2Fk/shakehandwithasmackhead.jpg
   local_path: images/001_shakehandwithasmackhead.jpg
-  checksum: 11239ae0be504ff4b59b229c23cffe50f7fe3596d279431e21ba2024b7d011fd
+  checksum: null
 embeds: []
 ---
 

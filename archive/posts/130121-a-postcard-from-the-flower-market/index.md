@@ -6,20 +6,24 @@ canonical_url: https://www.radiohead.com/deadairspace/130121-a-postcard-from-the
 published: '2013-01-21'
 published_display: Mon, 21st January 2013
 source_page: 11
-rendered_at: '2025-11-04T15:58:40.151206+00:00'
+rendered_at: '2025-11-04T21:55:29.218838+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/ZWUyN2NhMGQ4MjA3M2VmN2M2MDEyMTk4/IMG_2196.jpeg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/ZWUyN2NhMGQ4MjA3M2VmN2M2MDEyMTk4/IMG_2196.jpeg
   local_path: images/001_IMG_2196.jpeg
-  checksum: ddd283a0a52ef19736133d36e02c847008f3c49017ef26fe921eb74c906c5c3e
-- remote_url: https://rsrc.wasteheadquarters.com/NTJjNmM2NzRhODQxNzQxMzY2NGI5MzVk/IMG_2181.jpeg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/NTJjNmM2NzRhODQxNzQxMzY2NGI5MzVk/IMG_2181.jpeg
   local_path: images/002_IMG_2181.jpeg
-  checksum: 8de32c2f3f771ecd027b614cc82de415a25b1f879283c9f1f6b27698ea632244
-- remote_url: https://rsrc.wasteheadquarters.com/YWQwMTRkNmJkYjc4MjcyZDY0NTA4MWZi/IMG_2187.jpeg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/YWQwMTRkNmJkYjc4MjcyZDY0NTA4MWZi/IMG_2187.jpeg
   local_path: images/003_IMG_2187.jpeg
-  checksum: 37245e518fac19fce9f1328fc4d7382e09e68ec77feb6caddaf521e0e7c7d792
-- remote_url: https://rsrc.wasteheadquarters.com/MDY3YjZhMWNhYmRmN2EzYzA2YzU1ODMy/IMG_2191.jpeg
+  checksum: null
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/MDY3YjZhMWNhYmRmN2EzYzA2YzU1ODMy/IMG_2191.jpeg
   local_path: images/004_IMG_2191.jpeg
-  checksum: 36ac0901cbb44795a7b6447f73c927d86f55b057d76ff298ada1390afbf55686
+  checksum: null
 embeds:
 - tag: iframe
   src: https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F75880323

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/091002-hey-what-are-you-do
 published: '2009-10-02'
 published_display: Fri, 2nd October 2009
 source_page: 21
-rendered_at: '2025-11-04T16:24:33.895697+00:00'
+rendered_at: '2025-11-04T22:00:07.742045+00:00'
 assets: []
 embeds: []
 ---

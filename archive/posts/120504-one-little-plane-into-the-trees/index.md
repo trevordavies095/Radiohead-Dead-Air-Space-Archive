@@ -6,11 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/120504-one-little-plane-in
 published: '2012-05-04'
 published_display: Fri, 4th May 2012
 source_page: 13
-rendered_at: '2025-11-04T15:58:46.829810+00:00'
+rendered_at: '2025-11-04T21:55:36.393837+00:00'
 assets:
-- remote_url: https://rsrc.wasteheadquarters.com/MGVhNjkyYmY5YWMyMzBjYjc4NDEyNzA3/olp_itt_packshot_square.jpg
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/MGVhNjkyYmY5YWMyMzBjYjc4NDEyNzA3/olp_itt_packshot_square.jpg
   local_path: images/001_olp_itt_packshot_square.jpg
-  checksum: babe296ec0082e9b8da1520acf618de6d92b2aa758879c8f551da4c6fb50ad69
+  checksum: null
 embeds: []
 ---
 

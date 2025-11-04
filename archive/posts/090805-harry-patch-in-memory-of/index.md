@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/090805-harry-patch-in-memo
 published: '2009-08-05'
 published_display: Wed, 5th August 2009
 source_page: 22
-rendered_at: '2025-11-04T16:24:36.020877+00:00'
+rendered_at: '2025-11-04T22:00:08.770632+00:00'
 assets: []
 embeds: []
 ---
