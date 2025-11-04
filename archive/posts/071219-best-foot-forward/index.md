@@ -1,0 +1,15 @@
+---
+title: Best Foot Forward
+slug: 071219-best-foot-forward
+post_id: 211
+canonical_url: https://www.radiohead.com/deadairspace/071219-best-foot-forward
+published: '2007-12-19'
+published_display: Wed, 19th December 2007
+source_page: 33
+rendered_at: '2025-11-04T16:25:18.139239+00:00'
+assets: []
+embeds: []
+---
+
+Earlier this year we asked an Oxford company called Best Foot Forward to look at the carbon and ecological footprints of two recent Radiohead tours, with the aim of reducing our carbon output. Touring is very important to us, a large part of the joy and passion of what we do, and we are committed to finding more responsible ways of doing it.<br/><br/>We asked Best Foot Forward to compare two different kinds of tours we've done recently in America: an out of town 'big gig'/amphitheatre tour, and a smaller theatre tour in city centres.<br/><br/>We wanted to find out which kind of touring has the lowest carbon and environmental impact 'per person entertained'. We had lots of information to work out our own carbon footprint, but we had to make some assumptions about the fans' footprint; how they travel, and how much beer they drink when they get to the show!<br/><br/>This is what we found:<ul><li>Fan travel and consumption made up 86% of the Theatre tour and 97% of the Amphitheatre tour.  <br/><li>Of the band's touring impact - Travel and energy use accounted for 60% (Theatre tour) and ~40% (Amphitheatre tour) <br/><li>International travel accounted for a further 34 - 40% of impacts.</li></li></li></ul><br/>Short of no-one coming to see us, we'd like to share with our fans some ways of reducing this - our early research suggests that how you come to our shows can significantly reduce the tour's carbon output. To help achieve better results, we're trying to play as many shows as possible in city centres because of their better transport links.  From the Best Foot Forward report, the rough figures below give you an example of how much of a difference you can make.<br/><br/>For the big shows:<ul><li>If average car occupancy increased from 2.2 to 3, the whole tour's overall CO2 output would be reduced by 22%.<br/><li>Halving fans flying would reduce overall CO2 consumption by 5% <br/><li>And if 10% of car users travelled by bus it would reduce CO2 emissions by 7%</li></li></li></ul><br/>Where we can, we will be reducing our own carbon emissions, starting with sea freighting our gear. It's 93% more efficient than air freighting, and if we ship our equipment to and from America, we save 47 tonnes of CO2.  We will be doing this for touring in 2008, along with travelling as little as possible by air, avoiding chartered flights, and investigating more efficient road and rail transportation. <br/><br/><a class="bol" href="/radiohead_bff.zip" target="_blank">You can download the whole report here</a>.<br/><br/>We're aware that this study is tentative and partial, but it's a start, and we'll share with you more information as we get it.  <br/><br/>Love
+<p class="signature">Colin</p>

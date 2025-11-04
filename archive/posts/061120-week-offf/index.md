@@ -1,0 +1,15 @@
+---
+title: week offf
+slug: 061120-week-offf
+post_id: 112
+canonical_url: https://www.radiohead.com/deadairspace/061120-week-offf
+published: '2006-11-20'
+published_display: Mon, 20th November 2006
+source_page: 39
+rendered_at: '2025-11-04T16:25:41.531816+00:00'
+assets: []
+embeds: []
+---
+
+i just got sent two really interesting requesting type letters this week ( a blessed week off from recording)<br/><br/>i get these things A LOT<br/><br/>but i wanted to let you know about these ones<br/><br/>becuase they ring bells in my head.. maybe they might with you..<br/><br/>1. <a class="bol" href="http://www.StopGlobalWarming.org" target="_blank">www.StopGlobalWarming.org</a><br/><br/>Join the Stop Global Warming Virtual March on Washington.. dont know how many of you know about this in the US<br/>but at last the issue seems to be everywhere for you as it is in the UK. the idea of a virtual petition in this instance seems like genius to me. <br/><br/>(i have also just finished george monbiots Heat book about global warming... and even though he's a mate of mine i recommend it as the ideal  christmas present. well... that is if you dont mind being called a sourpuss or a scrooge. lots of my mates went to see him give talk at the sheldonian theatre in oxford which was very inspiring. if  a little terrifying. but then what can be more terrifying than watching the trees not changing colour when they should. ok perhaps i should get out more.<br/>it aint very rocknroll. but i long since pissed all that bullshit away.)<br/><br/>2. <a class="bol" href="http://oceans.greenpeace.org/en/" target="_blank">http://oceans.greenpeace.org/en/ </a><br/><br/>supermarket demand for fish ( not that i eat fish or meat ) has meant we  are fishing to extinction . what i find particularly offensive are the enormous nets they use that drag everything up and well.... just have a read. supermarkets should be made to source their fish responsibly and governments should act in the intersest of our future to regulate for sustainable fishing. not this mass production/destruction shit. i respect peoples right to eat fish. but evertime i watch the guys in the band sitting down to their whatever it is with scales i quietly wonder how its arrived. and what was destroyed and killed or thrown away to get it....<br/><br/>sermon over. sorry.<br/><br/>we had a good week in the studio last week. finally things are growing.<br/><br/>thm<br/><br/><br/><br/><br/>
+<p class="signature">Thom</p>

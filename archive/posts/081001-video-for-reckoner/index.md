@@ -1,0 +1,15 @@
+---
+title: Video for Reckoner
+slug: 081001-video-for-reckoner
+post_id: 314
+canonical_url: https://www.radiohead.com/deadairspace/081001-video-for-reckoner
+published: '2008-10-01'
+published_display: Wed, 1st October 2008
+source_page: 26
+rendered_at: '2025-11-04T16:24:50.504903+00:00'
+assets: []
+embeds: []
+---
+
+hello<br/>my mind is not functioning at the correct speed at the moment thanks to being in Tokyo<br/>but however and here<br/>is one of my favourite video things that has ever happened<br/>for Reckoner it is, the result of somebody entering a competition to make an animation to one of the tunes on IN RAINbows.<br/>on aniboom.  you can scroll down dead air space and find all about it.. but anyway<br/><br/>so we asked them whether it was ok to make it the official one we use as it goes with the song so well. they said yes.<br/><br/>and if you're like me and find it hard to find videos on televsion any more, or even turn on the television you can watch right here.<br/><br/>ok now im going to fold some clothes.<br/><br/><embed allowfullscreen="true" allowscriptaccess="always" flashvars="config_url=http%3A%2F%2Fwww.waste-central.com%2Fvideo%2Fvideo%2FshowPlayerConfig%3Fid%3D2026864%253AVideo%253A390451%26x%3DG0uQ1coenjMMNE3xLPhZ8uniKQzjr0O0&amp;video_smoothing=on&amp;autoplay=off" height="364" pluginspage="http://www.macromedia.com/go/getflashplayer" scale="noscale" src="http://static.ning.com/wastecentral/widgets/video/flvplayer/flvplayer.swf?v=3.6.6%3A9617" type="application/x-shockwave-flash" width="448" wmode="transparent"/> 
+<p class="signature">Thom</p>

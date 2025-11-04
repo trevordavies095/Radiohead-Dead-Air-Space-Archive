@@ -1,0 +1,15 @@
+---
+title: Children's Radio Foundation - Colin's trip to South Africa
+slug: 130116-childrens-radio-foundation-colins-trip-to-south-africa-2
+post_id: 529
+canonical_url: https://www.radiohead.com/deadairspace/130116-childrens-radio-foundation-colins-trip-to-south-africa-2
+published: '2013-01-16'
+published_display: Wed, 16th January 2013
+source_page: 11
+rendered_at: '2025-11-04T15:58:41.356413+00:00'
+assets: []
+embeds: []
+---
+
+Hello and I'd like to let everyone know I'm off on an adventure to South Africa on Saturday. &nbsp;I've been working with a charity based there, called the <a href="http://www.childrensradiofoundation.org/">Children's Radio Foundation</a>, which works with young people in half a dozen countries in Africa to give them journalistic and broadcasting skills, and a voice to tell their stories. &nbsp;I'm going for 11 days to visit some of the places where the CRF is working with youth groups, hospitals and radio stations in South Africa. <b>You can follow my trip <a href="http://crf.waste.uk.com/">HERE</a></b>. &nbsp;I will be putting up some pictures, and blogging about the journey as I go along. &nbsp;You can see and hear some of the stories by following the Vimeo link, and Soundcloud too.<p>I'm very excited to be going, and I hope you will enjoy following my journey on the site. &nbsp;I'm working with CRF because I've always believed in the importance of curiosity, and I grew in a home that was passionate about ' Radio ', as a window to the world outside. In my day job as a musician, I've always loved travelling, meeting people, and making connections with them about all our lives. &nbsp; CRF does all of this this brilliantly, through its radio and journalism training. &nbsp;CRF informs and enlightens everyone's lives - the reporter, interviewee, and the listener, wherever they may be. &nbsp; I'll also be checking out some music too, so keep an eye on the site! "</p>
+<p class="signature">Colin</p>

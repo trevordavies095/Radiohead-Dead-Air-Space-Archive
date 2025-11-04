@@ -1,0 +1,15 @@
+---
+title: ' FeelingPulledApartbyHorses/ TheHollowEarth 12inch'
+slug: 090903-feelingpulledapartbyhorses-thehollowearth-12inch
+post_id: 374
+canonical_url: https://www.radiohead.com/deadairspace/090903-feelingpulledapartbyhorses-thehollowearth-12inch
+published: '2009-09-03'
+published_display: Thu, 3rd September 2009
+source_page: 22
+rendered_at: '2025-11-04T16:24:35.041148+00:00'
+assets: []
+embeds: []
+---
+
+Dear Sir or Madam<br/><br/>This is to inform you of the release of two more bits of work shortly.<br/>They are loosely under the <strong>Thom Yorke</strong> name this time, although these days its all getting kind of blurry.<br/><strong>FeelingPulledApartbyHorses</strong> is written &amp; played by Jonny and I and is a radical rework of an old tune thats been kicking around without a home since 2001? i think.<br/><strong>The Hollow Earth</strong> is a bass menace that was born out of the Eraser period but needed a little more time.<br/>Both were produced by <strong>Nigel Godrich</strong> as ever. And mastered by Bob Ludwig.<br/>They are being put out on 12" with sliced sleeve by <strong>Stanley and Tchock</strong>.<br/>My sources tell me this will be available from the 21st of September if you're interested.. On sale in the <a class="bol" href="http://www.waste.uk.com/Store/waste-radiohead-dii-11-10075-a+physical.html" target="_blank">w.a.s.t.e part of our website</a> (with a gratis download.)<br/>Or you can go buy it in a good record shop if you are lucky enough to have one near you.<br/>Then later on there will be like a normal download thing i think around the 6th of Oct through the usual channels.<br/><br/>And so it goes. all the best
+<p class="signature">Thom</p>
