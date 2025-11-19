@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/130124-a-fun-interview-in-
 published: '2013-01-24'
 published_display: Thu, 24th January 2013
 source_page: 10
-rendered_at: '2025-11-04T21:55:27.974719+00:00'
+rendered_at: '2025-11-19T17:55:46.878047+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/M2E3Yjg3M2Q0NmI2NjcwMzRlMGQxZDFm/IMG_2268.jpeg

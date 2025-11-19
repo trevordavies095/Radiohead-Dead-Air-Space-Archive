@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/061016-studio
 published: '2006-10-16'
 published_display: Mon, 16th October 2006
 source_page: 40
-rendered_at: '2025-11-04T22:00:32.648867+00:00'
+rendered_at: '2025-11-19T18:02:38.759694+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NDFhNmExN2NlYmZhZDdjYzcxMGEzZjJk/studio2.jpg

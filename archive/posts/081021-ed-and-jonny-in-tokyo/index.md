@@ -5,8 +5,8 @@ post_id: 319
 canonical_url: https://www.radiohead.com/deadairspace/081021-ed-and-jonny-in-tokyo
 published: '2008-10-21'
 published_display: Tue, 21st October 2008
-source_page: 25
-rendered_at: '2025-11-04T22:00:12.265894+00:00'
+source_page: 26
+rendered_at: '2025-11-19T18:00:18.518381+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NmM1OGUzMjA5NGE2YzMyYzFlZjJiZTM4/049904.jpg

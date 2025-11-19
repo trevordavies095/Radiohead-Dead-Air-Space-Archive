@@ -5,8 +5,8 @@ post_id: 93
 canonical_url: https://www.radiohead.com/deadairspace/060719-america
 published: '2006-07-19'
 published_display: Wed, 19th July 2006
-source_page: 40
-rendered_at: '2025-11-04T22:00:33.221735+00:00'
+source_page: 41
+rendered_at: '2025-11-19T18:02:39.767618+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/Nzg1NjkzNGViZmE5NDMxNTBlMjI5MzQ5/sandiego4d.jpg

@@ -5,8 +5,8 @@ post_id: 64
 canonical_url: https://www.radiohead.com/deadairspace/060308-tuesday-photos-with-spinksy
 published: '2006-03-08'
 published_display: Wed, 8th March 2006
-source_page: 42
-rendered_at: '2025-11-04T22:00:35.028956+00:00'
+source_page: 43
+rendered_at: '2025-11-19T18:02:41.831916+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MWFhNTViYWMxODY5YTAzODE3NTM2ODIy/thom15step.jpg

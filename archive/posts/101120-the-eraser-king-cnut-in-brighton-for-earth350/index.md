@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/101120-the-eraser-king-cnu
 published: '2010-11-20'
 published_display: Sat, 20th November 2010
 source_page: 18
-rendered_at: '2025-11-04T22:00:02.944231+00:00'
+rendered_at: '2025-11-19T18:00:10.362583+00:00'
 assets: []
 embeds: []
 ---

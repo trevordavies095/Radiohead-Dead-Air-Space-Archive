@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/081008-japan
 published: '2008-10-08'
 published_display: Wed, 8th October 2008
 source_page: 26
-rendered_at: '2025-11-04T22:00:12.934954+00:00'
+rendered_at: '2025-11-19T18:00:18.706036+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZGNiZWM3OGRlNGJmZDMxMDU3MWUxNTYz/osakabiketext.jpg

@@ -5,8 +5,8 @@ post_id: 548
 canonical_url: https://www.radiohead.com/deadairspace/130512-some-good-sounds-on-old-technology
 published: '2013-05-12'
 published_display: Sun, 12th May 2013
-source_page: 9
-rendered_at: '2025-11-04T21:55:25.925280+00:00'
+source_page: 10
+rendered_at: '2025-11-19T17:55:43.325421+00:00'
 assets: []
 embeds: []
 ---

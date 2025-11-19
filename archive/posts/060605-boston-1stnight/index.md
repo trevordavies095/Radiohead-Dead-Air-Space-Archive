@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060605-boston-1stnight
 published: '2006-06-05'
 published_display: Mon, 5th June 2006
 source_page: 41
-rendered_at: '2025-11-04T22:00:34.022393+00:00'
+rendered_at: '2025-11-19T18:02:40.306028+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZGYzMGViOGQ0NzEyOGY0ZGIwMDVlZWRl/jonnystwoloves.jpg

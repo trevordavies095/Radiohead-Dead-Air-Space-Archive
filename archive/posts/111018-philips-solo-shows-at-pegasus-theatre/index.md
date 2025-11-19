@@ -5,8 +5,8 @@ post_id: 478
 canonical_url: https://www.radiohead.com/deadairspace/111018-philips-solo-shows-at-pegasus-theatre
 published: '2011-10-18'
 published_display: Tue, 18th October 2011
-source_page: 14
-rendered_at: '2025-11-04T21:55:48.190362+00:00'
+source_page: 15
+rendered_at: '2025-11-19T17:55:59.474996+00:00'
 assets: []
 embeds: []
 ---

@@ -5,8 +5,8 @@ post_id: 555
 canonical_url: https://www.radiohead.com/deadairspace/101124-a-distant-mirror
 published: '2010-11-24'
 published_display: Wed, 24th November 2010
-source_page: 17
-rendered_at: '2025-11-04T22:00:02.509296+00:00'
+source_page: 18
+rendered_at: '2025-11-19T18:00:10.318336+00:00'
 assets: []
 embeds: []
 ---

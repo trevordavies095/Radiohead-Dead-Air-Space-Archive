@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/081206-christmas-skanking-
 published: '2008-12-06'
 published_display: Sat, 6th December 2008
 source_page: 25
-rendered_at: '2025-11-04T22:00:11.827203+00:00'
+rendered_at: '2025-11-19T18:00:17.724637+00:00'
 assets: []
 embeds: []
 ---

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/101112-written-translation
 published: '2010-11-12'
 published_display: Fri, 12th November 2010
 source_page: 18
-rendered_at: '2025-11-04T22:00:03.338905+00:00'
+rendered_at: '2025-11-19T18:00:10.495812+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YTQwYThjOTZhZTYwZWM3NWQxNzg4NGQ4/IMG_0648.jpg

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080627-malahide-in-rainbow
 published: '2008-06-27'
 published_display: Fri, 27th June 2008
 source_page: 29
-rendered_at: '2025-11-04T22:00:17.761502+00:00'
+rendered_at: '2025-11-19T18:00:23.330002+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NGUzMDY1NDFmYTc5ODJjNjI5NmRkMjhi/N080606_1924_4890srh.jpg

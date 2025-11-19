@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/090222-this-weeks-office-c
 published: '2009-02-22'
 published_display: Sun, 22nd February 2009
 source_page: 24
-rendered_at: '2025-11-04T22:00:11.093271+00:00'
+rendered_at: '2025-11-19T18:00:17.001590+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZmQ3ODhlZjE5NWI0OTNlYWVkMDNiZDA5/shaded.jpg

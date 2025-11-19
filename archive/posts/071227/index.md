@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/071227-
 published: '2007-12-27'
 published_display: Thu, 27th December 2007
 source_page: 32
-rendered_at: '2025-11-04T22:00:24.160814+00:00'
+rendered_at: '2025-11-19T18:02:29.118959+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/OTYxYjJkYTIyMTk5NWQ1ZDAzYjIxN2Ri/sctchm11.jpg

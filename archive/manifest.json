@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-04T22:00:38.775192+00:00",
+  "generated_at": "2025-11-19T18:02:46.031432+00:00",
   "posts": {
     "251103-twenty-five-years-later": {
       "slug": "251103-twenty-five-years-later",
@@ -2408,7 +2408,13 @@
       "published_display": "Tue, 20th August 2013",
       "directory": "posts/130820-pale-blue-dot",
       "assets": {
-        "images": [],
+        "images": [
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/Njc0ZGRhZTUwMTYzNDNkZjA5OTVkNGFj/PaleBlueDot.jpg",
+            "local_path": "images/001_PaleBlueDot.jpg",
+            "checksum": "5db96314dc2fad9e96b0e016d5aa2a97841789deb90dce3d4f0845ea770be22e"
+          }
+        ],
         "attachments": [],
         "videos": []
       },
@@ -3282,7 +3288,7 @@
       "video_failures": [
         {
           "url": "http://www.youtube.com/embed/4XpF04nximI?rel=0",
-          "reason": "\u001b[0;31mERROR:\u001b[0m [youtube] 4XpF04nximI: Requested format is not available. Use --list-formats for a list of available formats"
+          "reason": "\u001b[0;31mERROR:\u001b[0m [youtube] 4XpF04nximI: Sign in to confirm you’re not a bot. This helps protect our community. Learn more"
         }
       ]
     },
@@ -3314,7 +3320,7 @@
       "video_failures": [
         {
           "url": "http://www.youtube.com/embed/JFkFEzFp-Ac?rel=0&modestbranding=1&showinfo=0",
-          "reason": "\u001b[0;31mERROR:\u001b[0m [youtube] JFkFEzFp-Ac: Requested format is not available. Use --list-formats for a list of available formats"
+          "reason": "\u001b[0;31mERROR:\u001b[0m [youtube] JFkFEzFp-Ac: Sign in to confirm you’re not a bot. This helps protect our community. Learn more"
         }
       ]
     },
@@ -3709,11 +3715,11 @@
       "video_failures": [
         {
           "url": "http://www.youtube.com/embed/McuHVXgR8dA?rel=0&showinfo=0&modestbranding=1&controls=0",
-          "reason": "\u001b[0;31mERROR:\u001b[0m [youtube] McuHVXgR8dA: Requested format is not available. Use --list-formats for a list of available formats"
+          "reason": "\u001b[0;31mERROR:\u001b[0m [youtube] McuHVXgR8dA: Sign in to confirm you’re not a bot. This helps protect our community. Learn more"
         },
         {
           "url": "http://www.youtube.com/embed/XuDcsKDGGHM?rel=0&showinfo=0&modestbranding=1&controls=0",
-          "reason": "\u001b[0;31mERROR:\u001b[0m [youtube] XuDcsKDGGHM: Requested format is not available. Use --list-formats for a list of available formats"
+          "reason": "\u001b[0;31mERROR:\u001b[0m [youtube] XuDcsKDGGHM: Sign in to confirm you’re not a bot. This helps protect our community. Learn more"
         }
       ]
     },
@@ -3834,7 +3840,7 @@
       "video_failures": [
         {
           "url": "http://www.youtube.com/embed/D2084nQbmvk?rel=0",
-          "reason": "\u001b[0;31mERROR:\u001b[0m [youtube] D2084nQbmvk: Requested format is not available. Use --list-formats for a list of available formats"
+          "reason": "\u001b[0;31mERROR:\u001b[0m [youtube] D2084nQbmvk: Sign in to confirm you’re not a bot. This helps protect our community. Learn more"
         }
       ]
     },
@@ -4428,7 +4434,7 @@
       "video_failures": [
         {
           "url": "https://www.youtube.com/embed/tFTLxkMmY4M?si=20o5gPyjZ-zuH0_b",
-          "reason": "\u001b[0;31mERROR:\u001b[0m [youtube] tFTLxkMmY4M: Requested format is not available. Use --list-formats for a list of available formats"
+          "reason": "\u001b[0;31mERROR:\u001b[0m [youtube] tFTLxkMmY4M: Sign in to confirm you’re not a bot. This helps protect our community. Learn more"
         }
       ]
     },
@@ -14039,6 +14045,174 @@
       "directory": "posts/251014-is-anybody-there",
       "assets": {
         "images": [],
+        "attachments": [],
+        "videos": []
+      },
+      "embed_media": [],
+      "video_failures": []
+    },
+    "251119-bologna-november-2025": {
+      "slug": "251119-bologna-november-2025",
+      "title": "Bologna, November 2025",
+      "post_id": 715,
+      "published": "2025-11-19",
+      "published_display": "Wed, 19th November 2025",
+      "directory": "posts/251119-bologna-november-2025",
+      "assets": {
+        "images": [
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/ZGVmNzE5YWFiZmY5MTA2OWVhOWIwMzQw/1_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1453.jpg",
+            "local_path": "images/001_1_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1453.jpg",
+            "checksum": "8dad5acd9cc442586df9ad8a6225f87615d08b9a81023ee2cf716f4cdcd96665"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/Yzk3ODY1NDg5ODMzZDY0Y2FlNTYzYWEy/2_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1696.jpg",
+            "local_path": "images/002_2_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1696.jpg",
+            "checksum": "1ad39682153547b2435ab561076ee072d38a32c747a974dc28072744d865a4cc"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/ZDNlYzhlNjY1ZDMzYjNjZTBlY2FiYzgy/3_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A2246.jpg",
+            "local_path": "images/003_3_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A2246.jpg",
+            "checksum": "f2d5bd978da99619a0bdf936e71f565edac53d4cdd2c88fa62bc1b8d32c09967"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/ODJhNjVkMWNjOGJmNWM4NzAwMzNmNjgw/4_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_IMG_9442.jpg",
+            "local_path": "images/004_4_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_IMG_9442.jpg",
+            "checksum": "30967af80a8cb933cef93e319c64203e68ec6078b858913f00418b02b3c5daec"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/ZGIzNzNjY2Q0MDhkYzU0ZDM1ZmY4NTM3/5_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A2569.jpg",
+            "local_path": "images/005_5_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A2569.jpg",
+            "checksum": "ea4ea05016fb62d95425e7d30e60535d99c9a7547b7216efa127dacefd4228d6"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/ZDlkOTQ0MzVjMzAwODJlMjZhNzg0MzE3/6_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A2152.jpg",
+            "local_path": "images/006_6_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A2152.jpg",
+            "checksum": "c254c83557252954acae90768b1a3424c87e4d5173bb3f9294e2cf339d804889"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/YmFkM2U1YmNiZWQ0MWM2MzQ1ZDZkYmI2/7_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A2071.jpg",
+            "local_path": "images/007_7_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A2071.jpg",
+            "checksum": "78f81b69f6e7fc20187b077add64c6b0db7c338dbed6e6712d08bb57fdd1c899"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/MzUyYjk5OTU3NjA0ZDQxNzBhZGYxNTlk/8_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1469.jpg",
+            "local_path": "images/008_8_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1469.jpg",
+            "checksum": "a4367555550d8c4e806e44377e628cbd5fd481543fd3455eb95cbeee9710e279"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/YWMzOGYwNmVjMWM3ZmU0MjM4MzQ2YjZl/9_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A2126.jpg",
+            "local_path": "images/009_9_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A2126.jpg",
+            "checksum": "6b1d4217365255dd856aa5af4a37a93bfa8d2a97e4c1525e12ae2e5ab442fca4"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/YTc4MzJhYTIwZWViNmJmY2JhMjY0ZmZh/10_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A2258.jpg",
+            "local_path": "images/010_10_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A2258.jpg",
+            "checksum": "a1c303bb56fbb2d5c91507ca4fde77cdc13df18fd645a90fe93b6c15dede39a9"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/YjVhNzI1NDVkNmQ4NjUyNWRjYTE3NjI2/11_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1884.jpg",
+            "local_path": "images/011_11_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1884.jpg",
+            "checksum": "98f41e27d34240f5b75bb5bf98556d718d6db603282bbf97fdc6eaf03538fb4e"
+          }
+        ],
+        "attachments": [],
+        "videos": []
+      },
+      "embed_media": [],
+      "video_failures": []
+    },
+    "251119-thank-you-for-having-us-bologna": {
+      "slug": "251119-thank-you-for-having-us-bologna",
+      "title": "thank you for having us Bologna",
+      "post_id": 714,
+      "published": "2025-11-19",
+      "published_display": "Wed, 19th November 2025",
+      "directory": "posts/251119-thank-you-for-having-us-bologna",
+      "assets": {
+        "images": [
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/NTRlNGMyZjBmOTNiMjUzY2IyZDE5NjI1/image001.jpg",
+            "local_path": "images/001_image001.jpg",
+            "checksum": "34157d3084bfe747bc5300f2b834f0a646402fcdf1608bce201f403aae1af364"
+          }
+        ],
+        "attachments": [],
+        "videos": []
+      },
+      "embed_media": [],
+      "video_failures": []
+    },
+    "251112-thank-you-for-having-us-madrid": {
+      "slug": "251112-thank-you-for-having-us-madrid",
+      "title": " Thank you for having us, Madrid",
+      "post_id": 713,
+      "published": "2025-11-12",
+      "published_display": "Wed, 12th November 2025",
+      "directory": "posts/251112-thank-you-for-having-us-madrid",
+      "assets": {
+        "images": [
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/ZTQ5MjNlOTY1YzA0OTliYmE1YzQyNTc1/1_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A0823.jpg",
+            "local_path": "images/001_1_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A0823.jpg",
+            "checksum": "a70f4f0c02af92ce772cdf1279dad30265912394f1ea83ce57f646290242b957"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/MjViYTA4MzJkNTg2ZTNlOTMxZGFhOTIw/2_MADRID_SOUNDCHECK_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_IMG_9255.jpg",
+            "local_path": "images/002_2_MADRID_SOUNDCHECK_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_IMG_9255.jpg",
+            "checksum": "11f5871b51118dba0a5acb3560a25d53f75fc99b97f6a16c122705bac5a38d63"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/MTNhMmE4NTRhNzNiOTk3Nzk0ZmI0YmQ1/3_MADRID_SOUNDCHECK_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A9323.jpg",
+            "local_path": "images/003_3_MADRID_SOUNDCHECK_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A9323.jpg",
+            "checksum": "5d97a728f05823cdc84b319fd6fe724243b6f60137aa38e03723d0de8f83ce82"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/NmM2ZGViOWUxNjBiODJjYjQzNWM2OWMy/4_MADRID_SOUNDCHECK_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A9364.jpg",
+            "local_path": "images/004_4_MADRID_SOUNDCHECK_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A9364.jpg",
+            "checksum": "741d34bdc15d372d3a87a995cc272d26be4f600a4bf80a1de68df9a1f830287c"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/OWU3NDY5YzBlZmM2YjY2OWFkMDc3YzJh/5_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1426.jpg",
+            "local_path": "images/005_5_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1426.jpg",
+            "checksum": "b809f3ce1c8d35e0cc41847e655b5cc5a195432dc33b6a33e63a98fd5bb04cf4"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/NjY5MWI1NWM3NTcxZGQxODlmMmU1MjFi/6_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A0692.jpg",
+            "local_path": "images/006_6_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A0692.jpg",
+            "checksum": "673f4e7886ca00b5b83ded4b46f41faf7fa0c22d6e9e919512cb360f408a5f0f"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/YzcyMjBhNjk5OTEwMTBjMTI0NTVhMjIz/7_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1012.jpg",
+            "local_path": "images/007_7_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1012.jpg",
+            "checksum": "bfc09f302bdc9acd9fd49595acf6eed226cfa5ca303e77ad2ff9a18db34c18a4"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/ZTgzNzBkNDM4ZWVlOTE5NjlhZDkyNjNi/8_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A0052.jpg",
+            "local_path": "images/008_8_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A0052.jpg",
+            "checksum": "9a462ce29288b0920ff0b4643da0018c1c9f2cd8ab5fbcd710f612e4173e7f13"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/OGVlY2JiYjA5ODdhZTZhMDI1NmE5ZTc5/9_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A0819.jpg",
+            "local_path": "images/009_9_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A0819.jpg",
+            "checksum": "b23408b5899243fb33f816dcc6698bfa69688994d10de427596fbd298ac66761"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/ZjYyNTBkOTY4NmE4ZmY0MGNlNjg3MWRi/10_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A0680.jpg",
+            "local_path": "images/010_10_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A0680.jpg",
+            "checksum": "110969e6d162979255d595cc9fba566057f2eb7dd85eb158ed14f73f71d5f806"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/YTMwZjc2NWM4MDZjODE0OWI2Y2Y1MmRl/11_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A0086.jpg",
+            "local_path": "images/011_11_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A0086.jpg",
+            "checksum": "fe8ca60efcfa6472c199aa061636bcec31773837582c6479d09b247bc33453bb"
+          },
+          {
+            "remote_url": "https://rsrc.wasteheadquarters.com/MTIzYzAxMGY4Y2E0ZjA3ZTNjN2ViZGM0/12_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1055.jpg",
+            "local_path": "images/012_12_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1055.jpg",
+            "checksum": "f5d0fceeae6899480e440c615dd923e4e7f599b2fde957a215a47961614f4f88"
+          }
+        ],
         "attachments": [],
         "videos": []
       },

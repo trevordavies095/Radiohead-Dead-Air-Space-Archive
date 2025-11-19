@@ -5,8 +5,8 @@ post_id: 258
 canonical_url: https://www.radiohead.com/deadairspace/080506-west-palm-beach
 published: '2008-05-06'
 published_display: Tue, 6th May 2008
-source_page: 29
-rendered_at: '2025-11-04T22:00:18.290639+00:00'
+source_page: 30
+rendered_at: '2025-11-19T18:00:24.300961+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MmJlZjgzNDFhZWRlZjNjODRmOTY0YjE2/red-bottles.jpg

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060224-videotape
 published: '2006-02-24'
 published_display: Fri, 24th February 2006
 source_page: 43
-rendered_at: '2025-11-04T22:00:35.598716+00:00'
+rendered_at: '2025-11-19T18:02:42.132606+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/OTFjZDFmY2QzZTU1ZDAyYWU0ZTEzOWM1/edpedsvideotape.jpg

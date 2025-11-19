@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060827-paris-amsterdam
 published: '2006-08-27'
 published_display: Sun, 27th August 2006
 source_page: 40
-rendered_at: '2025-11-04T22:00:32.941698+00:00'
+rendered_at: '2025-11-19T18:02:39.100213+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NmE3NmEyOTEwN2MzYjE4NDcxM2M0Njk1/jonny.jpg

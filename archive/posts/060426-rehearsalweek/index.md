@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060426-rehearsalweek
 published: '2006-04-26'
 published_display: Wed, 26th April 2006
 source_page: 42
-rendered_at: '2025-11-04T22:00:34.700403+00:00'
+rendered_at: '2025-11-19T18:02:41.068786+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/Y2M5OTczMTAxMTQ0ZDVjNTFiN2M2NmZl/jonnybanjo.jpg

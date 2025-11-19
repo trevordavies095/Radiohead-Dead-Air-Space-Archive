@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/120318-penderecki-in-londo
 published: '2012-03-18'
 published_display: Sun, 18th March 2012
 source_page: 13
-rendered_at: '2025-11-04T21:55:36.428508+00:00'
+rendered_at: '2025-11-19T17:55:53.314802+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/N2U5ZWExZmMxMjc5MGU4MzExYTViNmUx/AUKSOrehearsal.jpg

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/120912-the-master
 published: '2012-09-12'
 published_display: Wed, 12th September 2012
 source_page: 12
-rendered_at: '2025-11-04T21:55:35.153286+00:00'
+rendered_at: '2025-11-19T17:55:51.705430+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/M2Q5Y2NlY2ExMTBkNzhhMGFhNzI0ZGJh/themaster.jpg

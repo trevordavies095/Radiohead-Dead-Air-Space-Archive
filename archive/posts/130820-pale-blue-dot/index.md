@@ -6,8 +6,12 @@ canonical_url: https://www.radiohead.com/deadairspace/130820-pale-blue-dot
 published: '2013-08-20'
 published_display: Tue, 20th August 2013
 source_page: 9
-rendered_at: '2025-11-04T21:55:24.058596+00:00'
-assets: []
+rendered_at: '2025-11-19T17:55:39.758283+00:00'
+assets:
+- type: image
+  remote_url: https://rsrc.wasteheadquarters.com/Njc0ZGRhZTUwMTYzNDNkZjA5OTVkNGFj/PaleBlueDot.jpg
+  local_path: images/001_PaleBlueDot.jpg
+  checksum: 5db96314dc2fad9e96b0e016d5aa2a97841789deb90dce3d4f0845ea770be22e
 embeds: []
 ---
 

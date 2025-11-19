@@ -5,8 +5,8 @@ post_id: 125
 canonical_url: https://www.radiohead.com/deadairspace/070202-i-have-all-the-answers-here-in-my-pocket
 published: '2007-02-02'
 published_display: Fri, 2nd February 2007
-source_page: 38
-rendered_at: '2025-11-04T22:00:29.820400+00:00'
+source_page: 39
+rendered_at: '2025-11-19T18:02:36.108014+00:00'
 assets: []
 embeds: []
 ---

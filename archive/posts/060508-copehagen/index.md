@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060508-copehagen
 published: '2006-05-08'
 published_display: Mon, 8th May 2006
 source_page: 42
-rendered_at: '2025-11-04T22:00:34.661638+00:00'
+rendered_at: '2025-11-19T18:02:41.023100+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YzJiYWY0YTMxOTllNWY3MzVkNWZmOWE0/copenhag2.jpg

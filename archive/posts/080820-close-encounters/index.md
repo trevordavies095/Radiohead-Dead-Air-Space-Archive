@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080820-close-encounters
 published: '2008-08-20'
 published_display: Wed, 20th August 2008
 source_page: 28
-rendered_at: '2025-11-04T22:00:14.986176+00:00'
+rendered_at: '2025-11-19T18:00:20.705275+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NmNiMDlhOTZjOGRjMjQ0ZWJhZjY0MTdi/IMG_0512.jpg

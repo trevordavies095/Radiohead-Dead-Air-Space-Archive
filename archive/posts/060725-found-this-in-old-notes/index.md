@@ -5,8 +5,8 @@ post_id: 95
 canonical_url: https://www.radiohead.com/deadairspace/060725-found-this-in-old-notes
 published: '2006-07-26'
 published_display: Wed, 26th July 2006
-source_page: 40
-rendered_at: '2025-11-04T22:00:33.141885+00:00'
+source_page: 41
+rendered_at: '2025-11-19T18:02:39.651981+00:00'
 assets: []
 embeds: []
 ---

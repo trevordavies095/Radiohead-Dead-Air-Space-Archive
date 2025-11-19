@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/081201-ed-in-london
 published: '2008-12-01'
 published_display: Mon, 1st December 2008
 source_page: 25
-rendered_at: '2025-11-04T22:00:11.879636+00:00'
+rendered_at: '2025-11-19T18:00:17.776651+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZmRkYTc2MmZlZjliNTE5ZWE4ZTc4Yjg2/Ed-in-London.jpg

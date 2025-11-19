@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080530-have-you-seen
 published: '2008-05-30'
 published_display: Fri, 30th May 2008
 source_page: 29
-rendered_at: '2025-11-04T22:00:18.077014+00:00'
+rendered_at: '2025-11-19T18:00:23.682251+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YzRmYTdiMTczNWZmYjdiODBmNTUyYWFi/Lost.jpg
