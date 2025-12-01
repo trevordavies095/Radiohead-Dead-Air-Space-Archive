@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/111107-touring-2012
 published: '2011-11-07'
 published_display: Mon, 7th November 2011
 source_page: 14
-rendered_at: '2025-11-19T17:55:58.727350+00:00'
+rendered_at: '2025-12-01T13:04:43.271055+00:00'
 assets: []
 embeds: []
 ---

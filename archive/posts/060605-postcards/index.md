@@ -5,8 +5,8 @@ post_id: 81
 canonical_url: https://www.radiohead.com/deadairspace/060605-postcards
 published: '2006-06-05'
 published_display: Mon, 5th June 2006
-source_page: 41
-rendered_at: '2025-11-19T18:02:40.353158+00:00'
+source_page: 42
+rendered_at: '2025-12-01T13:11:29.464855+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MzY4MWFjMmY5MDQxODU2Zjc1Y2I1Zjk1/thomsdreamshopamsterdam1.jpg

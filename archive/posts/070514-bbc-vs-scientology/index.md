@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070514-bbc-vs-scientology
 published: '2007-05-14'
 published_display: Mon, 14th May 2007
 source_page: 35
-rendered_at: '2025-11-19T18:02:31.853525+00:00'
+rendered_at: '2025-12-01T13:11:19.349327+00:00'
 assets: []
 embeds: []
 ---

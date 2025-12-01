@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/091018-century-of-piano
 published: '2009-10-18'
 published_display: Sun, 18th October 2009
 source_page: 22
-rendered_at: '2025-11-19T18:00:14.312050+00:00'
+rendered_at: '2025-12-01T13:08:58.689928+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NzJjZTg4YjA3ZTc4MjM4Nzc0MWJhZGJk/__26_0211.jpg

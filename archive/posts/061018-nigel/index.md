@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/061018-nigel
 published: '2006-10-18'
 published_display: Wed, 18th October 2006
 source_page: 40
-rendered_at: '2025-11-19T18:02:38.662085+00:00'
+rendered_at: '2025-12-01T13:11:27.071125+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NzQ1YTE0ZTY4MzJkZGYzM2FkOWFjOTc5/studio6.jpg

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/081013-choose-high-quality
 published: '2008-10-13'
 published_display: Mon, 13th October 2008
 source_page: 26
-rendered_at: '2025-11-19T18:00:18.614907+00:00'
+rendered_at: '2025-12-01T13:09:03.196009+00:00'
 assets: []
 embeds: []
 ---

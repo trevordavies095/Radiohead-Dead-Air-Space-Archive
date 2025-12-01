@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080902-thom-eraser-yorke-i
 published: '2008-09-02'
 published_display: Tue, 2nd September 2008
 source_page: 27
-rendered_at: '2025-11-19T18:00:20.089852+00:00'
+rendered_at: '2025-12-01T13:09:04.676709+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MjJkNmZhNzE2NmM3N2ZmZWE1YTlhOTQ0/88160005.jpg

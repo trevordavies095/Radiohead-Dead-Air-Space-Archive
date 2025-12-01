@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060718-us
 published: '2006-07-18'
 published_display: Tue, 18th July 2006
 source_page: 41
-rendered_at: '2025-11-19T18:02:39.816959+00:00'
+rendered_at: '2025-12-01T13:11:28.592975+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YWJiZDJjMWI3N2U0NzBjZGVkNTllNjFl/sandiego1.jpg

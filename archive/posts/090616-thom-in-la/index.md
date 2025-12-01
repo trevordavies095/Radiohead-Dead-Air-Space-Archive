@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/090616-thom-in-la
 published: '2009-06-16'
 published_display: Tue, 16th June 2009
 source_page: 23
-rendered_at: '2025-11-19T18:00:15.608577+00:00'
+rendered_at: '2025-12-01T13:09:00.130731+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZDkxZDFlZGQ3MDIzMzU0NDdiMDMzZjRj/CcG07.jpg

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070418-what-are-these-call
 published: '2007-04-18'
 published_display: Wed, 18th April 2007
 source_page: 35
-rendered_at: '2025-11-19T18:02:32.455637+00:00'
+rendered_at: '2025-12-01T13:11:19.760718+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MDYyZWJkOWYwYzJhODVlNzk2YmZlY2Ni/22_3.jpg

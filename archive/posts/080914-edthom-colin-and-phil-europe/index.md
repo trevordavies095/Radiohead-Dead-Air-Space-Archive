@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080914-edthom-colin-and-ph
 published: '2008-09-14'
 published_display: Sun, 14th September 2008
 source_page: 27
-rendered_at: '2025-11-19T18:00:19.623971+00:00'
+rendered_at: '2025-12-01T13:09:04.193948+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/OWU5ZTk4ZGZjZDc0N2U0NzcxY2RiMjE5/88160002.jpg

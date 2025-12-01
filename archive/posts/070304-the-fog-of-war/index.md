@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070304-the-fog-of-war
 published: '2007-03-04'
 published_display: Sun, 4th March 2007
 source_page: 37
-rendered_at: '2025-11-19T18:02:34.643023+00:00'
+rendered_at: '2025-12-01T13:11:22.414741+00:00'
 assets: []
 embeds: []
 ---

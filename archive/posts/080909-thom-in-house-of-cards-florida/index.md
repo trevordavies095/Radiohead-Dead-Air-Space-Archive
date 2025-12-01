@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080909-thom-in-house-of-ca
 published: '2008-09-09'
 published_display: Tue, 9th September 2008
 source_page: 27
-rendered_at: '2025-11-19T18:00:19.676588+00:00'
+rendered_at: '2025-12-01T13:09:04.241245+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZTMwZTU4OWYwZDYyNzdkZTEwMTgzOWVj/88200009.jpg

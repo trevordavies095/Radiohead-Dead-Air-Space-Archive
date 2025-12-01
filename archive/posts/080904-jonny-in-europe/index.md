@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080904-jonny-in-europe
 published: '2008-09-04'
 published_display: Thu, 4th September 2008
 source_page: 27
-rendered_at: '2025-11-19T18:00:19.777229+00:00'
+rendered_at: '2025-12-01T13:09:04.335871+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NGE3ZDM0MTIwN2Q5YWZmNWI4YjUxMWE2/88160013.jpg

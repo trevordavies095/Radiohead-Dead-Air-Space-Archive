@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080814-video-competition-w
 published: '2008-08-14'
 published_display: Thu, 14th August 2008
 source_page: 28
-rendered_at: '2025-11-19T18:00:20.791239+00:00'
+rendered_at: '2025-12-01T13:09:05.453149+00:00'
 assets: []
 embeds: []
 ---

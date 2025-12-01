@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070326-back-at-the-house
 published: '2007-03-27'
 published_display: Tue, 27th March 2007
 source_page: 37
-rendered_at: '2025-11-19T18:02:34.085520+00:00'
+rendered_at: '2025-12-01T13:11:21.783060+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NDQ2MDIyYTQ4MDQ4Njc1NjM0YzI2Yzdh/set-up-2.jpg

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/101030-haunted-air
 published: '2010-10-30'
 published_display: Sat, 30th October 2010
 source_page: 18
-rendered_at: '2025-11-19T18:00:10.699965+00:00'
+rendered_at: '2025-12-01T13:08:54.997987+00:00'
 assets: []
 embeds: []
 ---

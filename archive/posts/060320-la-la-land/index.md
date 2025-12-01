@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060320-la-la-land
 published: '2006-03-20'
 published_display: Mon, 20th March 2006
 source_page: 42
-rendered_at: '2025-11-19T18:02:41.347677+00:00'
+rendered_at: '2025-12-01T13:11:31.938475+00:00'
 assets: []
 embeds: []
 ---

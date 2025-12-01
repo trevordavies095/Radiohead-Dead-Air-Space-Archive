@@ -5,8 +5,8 @@ post_id: 396
 canonical_url: https://www.radiohead.com/deadairspace/091219-copenhagen-climate-summit
 published: '2009-12-19'
 published_display: Sat, 19th December 2009
-source_page: 20
-rendered_at: '2025-11-19T18:00:12.944479+00:00'
+source_page: 21
+rendered_at: '2025-12-01T13:08:57.599120+00:00'
 assets: []
 embeds: []
 ---

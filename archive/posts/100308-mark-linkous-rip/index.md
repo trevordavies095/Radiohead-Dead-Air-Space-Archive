@@ -5,8 +5,8 @@ post_id: 411
 canonical_url: https://www.radiohead.com/deadairspace/100308-mark-linkous-rip
 published: '2010-03-08'
 published_display: Mon, 8th March 2010
-source_page: 19
-rendered_at: '2025-11-19T18:00:11.859855+00:00'
+source_page: 20
+rendered_at: '2025-12-01T13:08:56.559904+00:00'
 assets: []
 embeds: []
 ---

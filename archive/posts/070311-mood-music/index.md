@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070311-mood-music
 published: '2007-03-11'
 published_display: Sun, 11th March 2007
 source_page: 37
-rendered_at: '2025-11-19T18:02:34.597263+00:00'
+rendered_at: '2025-12-01T13:11:22.357176+00:00'
 assets: []
 embeds: []
 ---

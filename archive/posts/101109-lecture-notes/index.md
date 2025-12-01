@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/101109-lecture-notes
 published: '2010-11-09'
 published_display: Tue, 9th November 2010
 source_page: 18
-rendered_at: '2025-11-19T18:00:10.535820+00:00'
+rendered_at: '2025-12-01T13:08:54.822556+00:00'
 assets: []
 embeds: []
 ---

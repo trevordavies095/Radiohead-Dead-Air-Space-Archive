@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/121025-strasbourg-soundche
 published: '2012-10-25'
 published_display: Thu, 25th October 2012
 source_page: 12
-rendered_at: '2025-11-19T17:55:49.554325+00:00'
+rendered_at: '2025-12-01T13:04:33.401266+00:00'
 assets: []
 embeds: []
 ---

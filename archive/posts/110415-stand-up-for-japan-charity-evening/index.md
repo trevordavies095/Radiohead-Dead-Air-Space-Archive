@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/110415-stand-up-for-japan-
 published: '2011-04-15'
 published_display: Fri, 15th April 2011
 source_page: 17
-rendered_at: '2025-11-19T17:58:06.801625+00:00'
+rendered_at: '2025-12-01T13:06:51.142671+00:00'
 assets: []
 embeds: []
 ---

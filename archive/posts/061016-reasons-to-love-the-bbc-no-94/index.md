@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/061016-reasons-to-love-the
 published: '2006-10-16'
 published_display: Mon, 16th October 2006
 source_page: 40
-rendered_at: '2025-11-19T18:02:38.711917+00:00'
+rendered_at: '2025-12-01T13:11:27.126045+00:00'
 assets: []
 embeds: []
 ---

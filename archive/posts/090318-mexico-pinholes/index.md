@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/090318-mexico-pinholes
 published: '2009-03-18'
 published_display: Wed, 18th March 2009
 source_page: 24
-rendered_at: '2025-11-19T18:00:16.767243+00:00'
+rendered_at: '2025-12-01T13:09:01.354327+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YWU0Mjg3MzBmNjY2ZjEzODU5MDQxNzJm/mexicosoundcheck.jpg

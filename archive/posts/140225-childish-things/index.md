@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/140225-childish-things
 published: '2014-02-25'
 published_display: Tue, 25th February 2014
 source_page: 9
-rendered_at: '2025-11-19T17:55:39.330362+00:00'
+rendered_at: '2025-12-01T13:04:24.823539+00:00'
 assets: []
 embeds: []
 ---

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080926-jonny-in-boston
 published: '2008-09-26'
 published_display: Fri, 26th September 2008
 source_page: 26
-rendered_at: '2025-11-19T18:00:18.799234+00:00'
+rendered_at: '2025-12-01T13:09:03.387011+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/Y2IyZjllOGY3MGIzYTY0OGE5YWZiNTdh/88200028.jpg

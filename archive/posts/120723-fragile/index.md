@@ -5,8 +5,8 @@ post_id: 505
 canonical_url: https://www.radiohead.com/deadairspace/120723-fragile
 published: '2012-07-23'
 published_display: Mon, 23rd July 2012
-source_page: 12
-rendered_at: '2025-11-19T17:55:52.353063+00:00'
+source_page: 13
+rendered_at: '2025-12-01T13:04:36.425038+00:00'
 assets: []
 embeds: []
 ---

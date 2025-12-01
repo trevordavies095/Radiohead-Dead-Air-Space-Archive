@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/071001-in-rainbows
 published: '2007-10-01'
 published_display: Mon, 1st October 2007
 source_page: 34
-rendered_at: '2025-11-19T18:02:30.766994+00:00'
+rendered_at: '2025-12-01T13:11:17.669695+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/Y2Y5MDAyN2JmMTE2NTg4NzBlMmU5MGUy/nice-cup-of-tea.jpg

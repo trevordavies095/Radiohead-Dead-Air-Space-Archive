@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080523-book-now-no-jetlag
 published: '2008-05-23'
 published_display: Fri, 23rd May 2008
 source_page: 29
-rendered_at: '2025-11-19T18:00:23.776925+00:00'
+rendered_at: '2025-12-01T13:09:08.266823+00:00'
 assets: []
 embeds: []
 ---

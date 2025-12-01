@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/141226-tomorrows-modern-bo
 published: '2014-12-26'
 published_display: Fri, 26th December 2014
 source_page: 8
-rendered_at: '2025-11-19T17:55:38.231571+00:00'
+rendered_at: '2025-12-01T13:04:23.733772+00:00'
 assets: []
 embeds: []
 ---

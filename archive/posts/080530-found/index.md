@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080530-found
 published: '2008-05-30'
 published_display: Fri, 30th May 2008
 source_page: 29
-rendered_at: '2025-11-19T18:00:23.637162+00:00'
+rendered_at: '2025-12-01T13:09:08.131653+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/OTRhMDM3NDljOGYwYzcwNDg4NTZkYTcw/rescued.jpg

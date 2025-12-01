@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070323-at-the-house
 published: '2007-03-23'
 published_display: Fri, 23rd March 2007
 source_page: 37
-rendered_at: '2025-11-19T18:02:34.182586+00:00'
+rendered_at: '2025-12-01T13:11:21.895102+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZmMwZmM2MzA2ZWM0YTI3ZWFhOGMzNmU5/15.jpg

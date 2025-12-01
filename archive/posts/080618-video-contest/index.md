@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080618-video-contest
 published: '2008-06-18'
 published_display: Wed, 18th June 2008
 source_page: 29
-rendered_at: '2025-11-19T18:00:23.505833+00:00'
+rendered_at: '2025-12-01T13:09:07.994337+00:00'
 assets: []
 embeds: []
 ---

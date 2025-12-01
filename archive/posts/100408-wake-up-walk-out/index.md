@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/100408-wake-up-walk-out
 published: '2010-04-08'
 published_display: Thu, 8th April 2010
 source_page: 19
-rendered_at: '2025-11-19T18:00:11.686640+00:00'
+rendered_at: '2025-12-01T13:08:55.981572+00:00'
 assets: []
 embeds: []
 ---

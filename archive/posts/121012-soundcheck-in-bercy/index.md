@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/121012-soundcheck-in-bercy
 published: '2012-10-12'
 published_display: Fri, 12th October 2012
 source_page: 12
-rendered_at: '2025-11-19T17:55:49.596433+00:00'
+rendered_at: '2025-12-01T13:04:33.449225+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/OWE4NDQzZDhmMTRmZjQyODE5YTQ0MmVi/bercysoundcheck.jpg

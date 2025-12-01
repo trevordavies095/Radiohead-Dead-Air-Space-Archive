@@ -5,8 +5,8 @@ post_id: 111
 canonical_url: https://www.radiohead.com/deadairspace/061109-what-we-did-at-the-seaside-and-elsewhere
 published: '2006-11-09'
 published_display: Thu, 9th November 2006
-source_page: 39
-rendered_at: '2025-11-19T18:02:38.202144+00:00'
+source_page: 40
+rendered_at: '2025-12-01T13:11:26.805186+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MDk2ZjU4NWE3YzNhYmExOGFlMDRjZWJk/Seaside-3.jpg

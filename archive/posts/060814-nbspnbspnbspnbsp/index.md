@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060814-nbspnbspnbspnbsp
 published: '2006-08-14'
 published_display: Mon, 14th August 2006
 source_page: 40
-rendered_at: '2025-11-19T18:02:39.239885+00:00'
+rendered_at: '2025-12-01T13:11:27.758140+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NzFhZWEyNzkxNzUxNzNhMDk0YzE5ZjU2/pink-display.jpg

@@ -5,8 +5,8 @@ post_id: 156
 canonical_url: https://www.radiohead.com/deadairspace/070329-medium-format
 published: '2007-03-29'
 published_display: Thu, 29th March 2007
-source_page: 36
-rendered_at: '2025-11-19T18:02:33.657219+00:00'
+source_page: 37
+rendered_at: '2025-12-01T13:11:21.491806+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZDk2MTcxOGEzYjYwZDVjNDNjMDZjZjdk/captioncompetition.jpg

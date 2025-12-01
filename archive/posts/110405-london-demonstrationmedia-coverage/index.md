@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/110405-london-demonstratio
 published: '2011-04-06'
 published_display: Wed, 6th April 2011
 source_page: 17
-rendered_at: '2025-11-19T17:58:06.850487+00:00'
+rendered_at: '2025-12-01T13:06:51.210045+00:00'
 assets: []
 embeds: []
 ---

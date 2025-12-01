@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060608-bussign
 published: '2006-06-08'
 published_display: Thu, 8th June 2006
 source_page: 41
-rendered_at: '2025-11-19T18:02:40.260716+00:00'
+rendered_at: '2025-12-01T13:11:29.044029+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ODE4NDAyNThlOWFjNTQ3ZDQzMTFjZDlk/truck.jpg

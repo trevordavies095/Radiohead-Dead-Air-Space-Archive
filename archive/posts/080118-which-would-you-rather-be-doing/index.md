@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080118-which-would-you-rat
 published: '2008-01-18'
 published_display: Fri, 18th January 2008
 source_page: 31
-rendered_at: '2025-11-19T18:02:27.990834+00:00'
+rendered_at: '2025-12-01T13:11:13.418451+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YTkwZDI5YjY5NTY5MjY5OWViMzFhOWVk/brown_in_china_wt_r_1.jpg

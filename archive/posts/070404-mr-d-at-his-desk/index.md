@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070404-mr-d-at-his-desk
 published: '2007-04-04'
 published_display: Wed, 4th April 2007
 source_page: 36
-rendered_at: '2025-11-19T18:02:33.434305+00:00'
+rendered_at: '2025-12-01T13:11:20.915091+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZTc1YzVhM2ExMTFhNzZjOGU5MGRhNjg2/_S._D.__At_Work.jpg

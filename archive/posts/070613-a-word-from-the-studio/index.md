@@ -5,8 +5,8 @@ post_id: 186
 canonical_url: https://www.radiohead.com/deadairspace/070613-a-word-from-the-studio
 published: '2007-06-13'
 published_display: Wed, 13th June 2007
-source_page: 34
-rendered_at: '2025-11-19T18:02:31.358639+00:00'
+source_page: 35
+rendered_at: '2025-12-01T13:11:18.941287+00:00'
 assets: []
 embeds: []
 ---

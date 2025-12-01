@@ -5,8 +5,8 @@ post_id: 141
 canonical_url: https://www.radiohead.com/deadairspace/070222-global-warming-is-an-anti-capitalist-conspiracy
 published: '2007-02-22'
 published_display: Thu, 22nd February 2007
-source_page: 37
-rendered_at: '2025-11-19T18:02:34.689720+00:00'
+source_page: 38
+rendered_at: '2025-12-01T13:11:22.776008+00:00'
 assets: []
 embeds: []
 ---

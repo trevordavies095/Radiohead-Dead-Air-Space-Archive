@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/091218-ditto
 published: '2009-12-18'
 published_display: Fri, 18th December 2009
 source_page: 21
-rendered_at: '2025-11-19T18:00:13.357167+00:00'
+rendered_at: '2025-12-01T13:08:57.707327+00:00'
 assets: []
 embeds: []
 ---

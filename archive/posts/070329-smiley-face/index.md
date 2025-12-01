@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070329-smiley-face
 published: '2007-03-29'
 published_display: Thu, 29th March 2007
 source_page: 36
-rendered_at: '2025-11-19T18:02:33.613516+00:00'
+rendered_at: '2025-12-01T13:11:21.120100+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZmJkMDU1MzdlNjAyMGFmMjVlNzUwMzI3/snowbush.jpg

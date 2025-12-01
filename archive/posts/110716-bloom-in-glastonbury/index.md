@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/110716-bloom-in-glastonbur
 published: '2011-07-16'
 published_display: Sat, 16th July 2011
 source_page: 16
-rendered_at: '2025-11-19T17:56:01.481815+00:00'
+rendered_at: '2025-12-01T13:04:45.676110+00:00'
 assets: []
 embeds:
 - tag: iframe

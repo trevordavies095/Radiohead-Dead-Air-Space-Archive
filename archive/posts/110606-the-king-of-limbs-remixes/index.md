@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/110606-the-king-of-limbs-r
 published: '2011-06-06'
 published_display: Mon, 6th June 2011
 source_page: 16
-rendered_at: '2025-11-19T17:56:03.496395+00:00'
+rendered_at: '2025-12-01T13:04:47.833550+00:00'
 assets: []
 embeds: []
 ---

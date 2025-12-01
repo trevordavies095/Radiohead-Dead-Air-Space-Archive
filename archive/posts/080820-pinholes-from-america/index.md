@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080820-pinholes-from-ameri
 published: '2008-08-20'
 published_display: Wed, 20th August 2008
 source_page: 28
-rendered_at: '2025-11-19T18:00:20.749826+00:00'
+rendered_at: '2025-12-01T13:09:05.407207+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NGNhN2I4N2ZiODBmMmE2NTQwYjVmODdl/greenwoR106832A.jpg

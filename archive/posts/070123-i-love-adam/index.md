@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070123-i-love-adam
 published: '2007-01-23'
 published_display: Tue, 23rd January 2007
 source_page: 39
-rendered_at: '2025-11-19T18:02:37.669064+00:00'
+rendered_at: '2025-12-01T13:11:25.922056+00:00'
 assets: []
 embeds: []
 ---

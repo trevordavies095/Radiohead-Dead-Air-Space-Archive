@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/091123-as-the-landscape-di
 published: '2009-11-23'
 published_display: Mon, 23rd November 2009
 source_page: 21
-rendered_at: '2025-11-19T18:00:13.768455+00:00'
+rendered_at: '2025-12-01T13:08:58.131962+00:00'
 assets: []
 embeds: []
 ---

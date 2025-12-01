@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/110720-the-king-of-limbs-f
 published: '2011-07-21'
 published_display: Thu, 21st July 2011
 source_page: 16
-rendered_at: '2025-11-19T17:56:01.058936+00:00'
+rendered_at: '2025-12-01T13:04:45.296302+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NjAyNWYyOWI2NzM3OTdlNzViODNmOTBm/ftb1.jpg

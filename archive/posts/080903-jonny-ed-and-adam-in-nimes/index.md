@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080903-jonny-ed-and-adam-i
 published: '2008-09-03'
 published_display: Wed, 3rd September 2008
 source_page: 27
-rendered_at: '2025-11-19T18:00:19.864103+00:00'
+rendered_at: '2025-12-01T13:09:04.430114+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NTliNWQ3NDQ4NzRkZmJkYjNmOGQ2NDJk/88180011.jpg

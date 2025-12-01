@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/100331-mr-sensible-strikes
 published: '2010-03-31'
 published_display: Wed, 31st March 2010
 source_page: 19
-rendered_at: '2025-11-19T18:00:11.729721+00:00'
+rendered_at: '2025-12-01T13:08:56.028788+00:00'
 assets: []
 embeds: []
 ---

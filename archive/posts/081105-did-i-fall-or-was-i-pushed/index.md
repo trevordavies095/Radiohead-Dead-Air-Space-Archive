@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/081105-did-i-fall-or-was-i
 published: '2008-11-05'
 published_display: Wed, 5th November 2008
 source_page: 25
-rendered_at: '2025-11-19T18:00:17.962280+00:00'
+rendered_at: '2025-12-01T13:09:02.523392+00:00'
 assets: []
 embeds: []
 ---

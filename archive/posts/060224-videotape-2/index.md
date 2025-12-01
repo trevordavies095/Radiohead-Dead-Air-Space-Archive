@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060224-videotape-2
 published: '2006-02-24'
 published_display: Fri, 24th February 2006
 source_page: 43
-rendered_at: '2025-11-19T18:02:42.083195+00:00'
+rendered_at: '2025-12-01T13:11:32.926126+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NDkxYmY1YjQ3M2ExZWJmNDZmOWQzNGRi/thomvideocontr.jpg

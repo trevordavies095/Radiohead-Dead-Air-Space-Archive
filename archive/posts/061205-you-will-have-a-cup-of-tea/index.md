@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/061205-you-will-have-a-cup
 published: '2006-12-05'
 published_display: Tue, 5th December 2006
 source_page: 39
-rendered_at: '2025-11-19T18:02:38.011401+00:00'
+rendered_at: '2025-12-01T13:11:26.280620+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/Mjg5MTg4Mzc5OTVlNjM5MDJhNjdhN2Y3/Tea-Break.jpg

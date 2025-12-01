@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/090413-more-south-america-
 published: '2009-04-13'
 published_display: Mon, 13th April 2009
 source_page: 24
-rendered_at: '2025-11-19T18:00:16.623805+00:00'
+rendered_at: '2025-12-01T13:09:01.205324+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YTliOWY5YzA1MTM1N2Y4ZDkwZTgxZTQx/southamericana5.jpg

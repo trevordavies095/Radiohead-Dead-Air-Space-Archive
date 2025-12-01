@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/160314-new-radiohead-dates
 published: '2016-03-14'
 published_display: Mon, 14th March 2016
 source_page: 8
-rendered_at: '2025-11-19T17:55:38.075789+00:00'
+rendered_at: '2025-12-01T13:04:23.597526+00:00'
 assets: []
 embeds: []
 ---

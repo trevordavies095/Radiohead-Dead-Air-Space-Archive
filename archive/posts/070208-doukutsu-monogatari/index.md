@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070208-doukutsu-monogatari
 published: '2007-02-08'
 published_display: Thu, 8th February 2007
 source_page: 38
-rendered_at: '2025-11-19T18:02:35.325267+00:00'
+rendered_at: '2025-12-01T13:11:23.268520+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NzI4NmQ3ODU3YTE1MWEzOTk3ZGRmMjhl/douku1.png

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/111202-three-more-dates
 published: '2011-12-02'
 published_display: Fri, 2nd December 2011
 source_page: 14
-rendered_at: '2025-11-19T17:55:56.154201+00:00'
+rendered_at: '2025-12-01T13:04:40.684537+00:00'
 assets: []
 embeds: []
 ---

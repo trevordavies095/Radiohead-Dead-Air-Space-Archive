@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070206-winter-07
 published: '2007-02-06'
 published_display: Tue, 6th February 2007
 source_page: 38
-rendered_at: '2025-11-19T18:02:35.468426+00:00'
+rendered_at: '2025-12-01T13:11:23.430264+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/OTU1YWU1NTlmNzMwZDRjNDM0ODllMTRi/EdSpanish.jpg

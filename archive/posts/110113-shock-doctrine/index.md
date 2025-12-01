@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/110113-shock-doctrine
 published: '2011-01-13'
 published_display: Thu, 13th January 2011
 source_page: 17
-rendered_at: '2025-11-19T18:00:09.609931+00:00'
+rendered_at: '2025-12-01T13:08:53.992904+00:00'
 assets: []
 embeds: []
 ---
