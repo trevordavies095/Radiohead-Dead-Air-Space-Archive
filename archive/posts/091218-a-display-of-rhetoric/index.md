@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/091218-a-display-of-rhetor
 published: '2009-12-18'
 published_display: Fri, 18th December 2009
 source_page: 21
-rendered_at: '2025-12-01T13:08:57.802115+00:00'
+rendered_at: '2025-12-15T12:56:36.868451+00:00'
 assets: []
 embeds: []
 ---

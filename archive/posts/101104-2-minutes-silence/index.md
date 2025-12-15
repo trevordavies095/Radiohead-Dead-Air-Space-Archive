@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/101104-2-minutes-silence
 published: '2010-11-04'
 published_display: Thu, 4th November 2010
 source_page: 18
-rendered_at: '2025-12-01T13:08:54.909544+00:00'
+rendered_at: '2025-12-15T12:56:33.940820+00:00'
 assets: []
 embeds: []
 ---

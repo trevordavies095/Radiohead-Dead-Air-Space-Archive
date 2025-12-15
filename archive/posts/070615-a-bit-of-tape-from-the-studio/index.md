@@ -5,8 +5,8 @@ post_id: 187
 canonical_url: https://www.radiohead.com/deadairspace/070615-a-bit-of-tape-from-the-studio
 published: '2007-06-15'
 published_display: Fri, 15th June 2007
-source_page: 34
-rendered_at: '2025-12-01T13:11:18.482948+00:00'
+source_page: 35
+rendered_at: '2025-12-15T12:56:56.433906+00:00'
 assets: []
 embeds: []
 ---

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/100707-in-the-shed
 published: '2010-07-07'
 published_display: Wed, 7th July 2010
 source_page: 19
-rendered_at: '2025-12-01T13:08:55.456506+00:00'
+rendered_at: '2025-12-15T12:56:34.517288+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZTRkYjQ5MmIyZDhkNGZhMjBhZThiMWI4/In-the-Shed.jpg

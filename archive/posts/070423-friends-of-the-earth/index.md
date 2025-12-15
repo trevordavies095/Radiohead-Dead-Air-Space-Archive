@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070423-friends-of-the-eart
 published: '2007-04-23'
 published_display: Mon, 23rd April 2007
 source_page: 35
-rendered_at: '2025-12-01T13:11:19.665548+00:00'
+rendered_at: '2025-12-15T12:56:56.944872+00:00'
 assets: []
 embeds: []
 ---

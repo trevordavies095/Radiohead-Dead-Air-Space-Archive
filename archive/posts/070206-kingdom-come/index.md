@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070206-kingdom-come
 published: '2007-02-06'
 published_display: Tue, 6th February 2007
 source_page: 38
-rendered_at: '2025-12-01T13:11:23.483745+00:00'
+rendered_at: '2025-12-15T12:57:00.119673+00:00'
 assets: []
 embeds: []
 ---

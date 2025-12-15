@@ -5,8 +5,8 @@ post_id: 84
 canonical_url: https://www.radiohead.com/deadairspace/060610-winter-studio
 published: '2006-06-10'
 published_display: Sat, 10th June 2006
-source_page: 41
-rendered_at: '2025-12-01T13:11:28.994272+00:00'
+source_page: 42
+rendered_at: '2025-12-15T12:57:05.309251+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ODljMDk5Njk5NGIzMWFlZDg5NDRmNGMy/dJG.jpg

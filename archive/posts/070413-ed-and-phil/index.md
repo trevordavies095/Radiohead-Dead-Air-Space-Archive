@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070413-ed-and-phil
 published: '2007-04-13'
 published_display: Fri, 13th April 2007
 source_page: 36
-rendered_at: '2025-12-01T13:11:20.492674+00:00'
+rendered_at: '2025-12-15T12:56:57.614094+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NjM5ZGJkMDhmZDYxM2FhNjcxNjBmN2Ex/Ed_and_Phil.jpg

@@ -5,8 +5,8 @@ post_id: 219
 canonical_url: https://www.radiohead.com/deadairspace/071226-scotch-mist
 published: '2007-12-26'
 published_display: Wed, 26th December 2007
-source_page: 32
-rendered_at: '2025-12-01T13:11:15.318390+00:00'
+source_page: 33
+rendered_at: '2025-12-15T12:56:54.198842+00:00'
 assets: []
 embeds: []
 ---

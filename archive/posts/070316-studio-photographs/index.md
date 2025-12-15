@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070316-studio-photographs
 published: '2007-03-16'
 published_display: Fri, 16th March 2007
 source_page: 37
-rendered_at: '2025-12-01T13:11:22.138217+00:00'
+rendered_at: '2025-12-15T12:56:59.035925+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/M2RjZmExY2Q0M2JiOTUyZmUyMjY3Nzcz/12_3.jpg

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/050819-mornin-mlud
 published: '2005-08-20'
 published_display: Sat, 20th August 2005
 source_page: 46
-rendered_at: '2025-12-01T13:11:36.827451+00:00'
+rendered_at: '2025-12-15T12:57:09.859187+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ODc3NWE3YTYyZGQzMjgxNjBhMjkyOWQx/mornin-mlud-flash.jpg

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/090423-thom-in-mexico-city
 published: '2009-04-23'
 published_display: Thu, 23rd April 2009
 source_page: 24
-rendered_at: '2025-12-01T13:09:00.938523+00:00'
+rendered_at: '2025-12-15T12:56:39.904774+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NTdiZjBjMGZhMWNkMGNiY2E3YTRlNDhk/Thom-in-Mexico-City.jpg

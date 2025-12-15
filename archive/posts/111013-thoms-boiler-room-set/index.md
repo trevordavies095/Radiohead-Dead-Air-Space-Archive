@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/111013-thoms-boiler-room-s
 published: '2011-10-13'
 published_display: Thu, 13th October 2011
 source_page: 15
-rendered_at: '2025-12-01T13:04:44.080720+00:00'
+rendered_at: '2025-12-15T12:52:24.147810+00:00'
 assets: []
 embeds: []
 ---

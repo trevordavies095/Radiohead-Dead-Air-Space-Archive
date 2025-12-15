@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/100505-bp-again
 published: '2010-05-05'
 published_display: Wed, 5th May 2010
 source_page: 19
-rendered_at: '2025-12-01T13:08:55.936192+00:00'
+rendered_at: '2025-12-15T12:56:34.967115+00:00'
 assets: []
 embeds: []
 ---

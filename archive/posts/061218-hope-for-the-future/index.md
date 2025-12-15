@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/061218-hope-for-the-future
 published: '2006-12-18'
 published_display: Mon, 18th December 2006
 source_page: 39
-rendered_at: '2025-12-01T13:11:26.078506+00:00'
+rendered_at: '2025-12-15T12:57:02.448302+00:00'
 assets: []
 embeds: []
 ---

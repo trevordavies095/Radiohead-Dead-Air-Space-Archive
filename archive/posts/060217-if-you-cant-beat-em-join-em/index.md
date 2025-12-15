@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060217-if-you-cant-beat-em
 published: '2006-02-17'
 published_display: Fri, 17th February 2006
 source_page: 44
-rendered_at: '2025-12-01T13:11:33.776326+00:00'
+rendered_at: '2025-12-15T12:57:07.586111+00:00'
 assets: []
 embeds: []
 ---

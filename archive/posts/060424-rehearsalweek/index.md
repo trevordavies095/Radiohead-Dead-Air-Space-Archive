@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060424-rehearsalweek
 published: '2006-04-24'
 published_display: Mon, 24th April 2006
 source_page: 42
-rendered_at: '2025-12-01T13:11:31.632858+00:00'
+rendered_at: '2025-12-15T12:57:05.927836+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YWZmY2U0MzRkZGE4ZmJkM2E3OWU4YmMw/ed.jpg

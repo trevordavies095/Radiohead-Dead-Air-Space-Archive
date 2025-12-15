@@ -5,8 +5,8 @@ post_id: 55
 canonical_url: https://www.radiohead.com/deadairspace/060222-arpeggi
 published: '2006-02-22'
 published_display: Wed, 22nd February 2006
-source_page: 43
-rendered_at: '2025-12-01T13:11:33.165456+00:00'
+source_page: 44
+rendered_at: '2025-12-15T12:57:07.347214+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZDcxZTdhNTdkMDYwM2M4NjdhMjNiNjM2/jonnyarpeggi3.jpg

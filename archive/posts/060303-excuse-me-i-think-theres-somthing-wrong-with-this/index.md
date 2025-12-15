@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060303-excuse-me-i-think-t
 published: '2006-03-03'
 published_display: Fri, 3rd March 2006
 source_page: 43
-rendered_at: '2025-12-01T13:11:32.649961+00:00'
+rendered_at: '2025-12-15T12:57:06.673777+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MzM3ZWE1OGYwNGEwYTJhYTBjZWFlMzU4/excusememissithinktheplane..mov

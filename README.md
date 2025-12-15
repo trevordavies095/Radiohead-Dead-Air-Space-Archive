@@ -48,6 +48,10 @@ Install `pytest` (e.g. `pip install pytest`) and run `pytest`.
 
 Browse individual post exports directly from the repository. Each link below points to the Markdown rendering under `archive/posts/<slug>/index.md`.
 
+- [thank you berlin (Sun, 14th December 2025)](archive/posts/251214-thank-you-berlin/index.md)
+- [O2 London by Alex Lake (Tue, 9th December 2025)](archive/posts/251209-o2-london-by-alex-lake/index.md)
+- [Copenhagen 4th December  (Thu, 4th December 2025)](archive/posts/251204-copenhagen-4th-december/index.md)
+- [Copenhagen 1st & 2nd December (Mon, 1st December 2025)](archive/posts/251201-copenhagen-1st-2nd-december/index.md)
 - [what happened !?… (Sun, 30th November 2025)](archive/posts/251130-what-happened/index.md)
 - [thank you for having us Bologna (Wed, 19th November 2025)](archive/posts/251119-thank-you-for-having-us-bologna/index.md)
 - [Bologna, November 2025 (Wed, 19th November 2025)](archive/posts/251119-bologna-november-2025/index.md)

@@ -5,8 +5,8 @@ post_id: 98
 canonical_url: https://www.radiohead.com/deadairspace/060814-if-you-are-ever-in-lausanne-switzerland
 published: '2006-08-14'
 published_display: Mon, 14th August 2006
-source_page: 40
-rendered_at: '2025-12-01T13:11:27.710104+00:00'
+source_page: 41
+rendered_at: '2025-12-15T12:57:04.286308+00:00'
 assets: []
 embeds: []
 ---

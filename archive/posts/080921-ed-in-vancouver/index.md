@@ -5,8 +5,8 @@ post_id: 307
 canonical_url: https://www.radiohead.com/deadairspace/080921-ed-in-vancouver
 published: '2008-09-21'
 published_display: Sun, 21st September 2008
-source_page: 26
-rendered_at: '2025-12-01T13:09:03.677347+00:00'
+source_page: 27
+rendered_at: '2025-12-15T12:56:43.031991+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YjQwNTk0MGE4YzkwNTMwZmUzYmE5ZWUx/CG07.jpg

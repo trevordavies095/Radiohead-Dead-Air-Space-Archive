@@ -5,8 +5,8 @@ post_id: 322
 canonical_url: https://www.radiohead.com/deadairspace/081029-thom-and-colin-in-tokyo
 published: '2008-10-29'
 published_display: Wed, 29th October 2008
-source_page: 25
-rendered_at: '2025-12-01T13:09:02.618758+00:00'
+source_page: 26
+rendered_at: '2025-12-15T12:56:41.930333+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZjQzYmVkYzMxOTFhNWE0YTA5OTU3NTUx/050317.jpg

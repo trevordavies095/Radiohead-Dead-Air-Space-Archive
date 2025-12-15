@@ -5,8 +5,8 @@ post_id: 25
 canonical_url: https://www.radiohead.com/deadairspace/050822-louis-on-bvs
 published: '2005-08-22'
 published_display: Mon, 22nd August 2005
-source_page: 45
-rendered_at: '2025-12-01T13:11:35.773222+00:00'
+source_page: 46
+rendered_at: '2025-12-15T12:57:09.344042+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MjMyYTQ4MWNhMTE2Y2NlNjZlNTJjYzE1/louis-on-bvs.jpg

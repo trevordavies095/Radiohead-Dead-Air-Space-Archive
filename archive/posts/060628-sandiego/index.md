@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060628-sandiego
 published: '2006-06-28'
 published_display: Wed, 28th June 2006
 source_page: 41
-rendered_at: '2025-12-01T13:11:28.688138+00:00'
+rendered_at: '2025-12-15T12:57:04.674775+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ODVmMzhlYmIzYjVhZTU2MjM0NmM4MjQ3/jonnystandstill!.jpg

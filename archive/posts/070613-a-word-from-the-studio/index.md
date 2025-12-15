@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070613-a-word-from-the-stu
 published: '2007-06-13'
 published_display: Wed, 13th June 2007
 source_page: 35
-rendered_at: '2025-12-01T13:11:18.941287+00:00'
+rendered_at: '2025-12-15T12:56:56.479870+00:00'
 assets: []
 embeds: []
 ---

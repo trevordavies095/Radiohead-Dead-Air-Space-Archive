@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/130107-next-atoms-for-peac
 published: '2013-01-07'
 published_display: Mon, 7th January 2013
 source_page: 12
-rendered_at: '2025-12-01T13:04:33.028885+00:00'
+rendered_at: '2025-12-15T12:52:14.251836+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NmYzZTcwYjIwYWRlYjkxMjMwNjFmMGM2/judge_packshot_web.jpg

@@ -5,8 +5,8 @@ post_id: 398
 canonical_url: https://www.radiohead.com/deadairspace/091219-a-rant-and-some-other-stuff
 published: '2009-12-19'
 published_display: Sat, 19th December 2009
-source_page: 20
-rendered_at: '2025-12-01T13:08:57.179588+00:00'
+source_page: 21
+rendered_at: '2025-12-15T12:56:36.560617+00:00'
 assets: []
 embeds: []
 ---

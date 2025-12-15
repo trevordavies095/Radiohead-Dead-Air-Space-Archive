@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/091216-america-shall-or-sh
 published: '2009-12-16'
 published_display: Wed, 16th December 2009
 source_page: 21
-rendered_at: '2025-12-01T13:08:57.897001+00:00'
+rendered_at: '2025-12-15T12:56:36.966362+00:00'
 assets: []
 embeds: []
 ---

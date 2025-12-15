@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/111123-a-new-tour-date-add
 published: '2011-11-23'
 published_display: Wed, 23rd November 2011
 source_page: 14
-rendered_at: '2025-12-01T13:04:40.727351+00:00'
+rendered_at: '2025-12-15T12:52:20.800009+00:00'
 assets: []
 embeds: []
 ---

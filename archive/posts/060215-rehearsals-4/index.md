@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060215-rehearsals-4
 published: '2006-02-15'
 published_display: Wed, 15th February 2006
 source_page: 44
-rendered_at: '2025-12-01T13:11:34.059539+00:00'
+rendered_at: '2025-12-15T12:57:07.669688+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZjNlYjc0YjNhMzFjZWMxYjAxNzBiMTNm/thom-back-1.jpg

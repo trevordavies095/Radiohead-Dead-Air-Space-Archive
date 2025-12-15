@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060911-jonny-guitar
 published: '2006-09-11'
 published_display: Mon, 11th September 2006
 source_page: 40
-rendered_at: '2025-12-01T13:11:27.272575+00:00'
+rendered_at: '2025-12-15T12:57:03.603768+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MjM0ZjgxMDhhZWFjN2IyYmEzNjU4Yjlk/_0593.jpg

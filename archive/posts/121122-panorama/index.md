@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/121122-panorama
 published: '2012-11-22'
 published_display: Thu, 22nd November 2012
 source_page: 12
-rendered_at: '2025-12-01T13:04:33.256282+00:00'
+rendered_at: '2025-12-15T12:52:14.396546+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZjAwYzgwMTBkYTUxM2JhMWE4ZTc2NjBm/IMG_2084.JPG

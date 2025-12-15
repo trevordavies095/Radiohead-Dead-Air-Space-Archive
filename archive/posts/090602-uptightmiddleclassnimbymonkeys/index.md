@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/090602-uptightmiddleclassn
 published: '2009-06-02'
 published_display: Tue, 2nd June 2009
 source_page: 23
-rendered_at: '2025-12-01T13:09:00.319194+00:00'
+rendered_at: '2025-12-15T12:56:39.275342+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NTFkYWM3MzMwYWNkMzgwYWZiNGQ5NDRl/windpwer-copy.jpg

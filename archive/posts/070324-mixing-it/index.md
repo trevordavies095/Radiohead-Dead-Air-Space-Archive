@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070324-mixing-it
 published: '2007-03-24'
 published_display: Sat, 24th March 2007
 source_page: 37
-rendered_at: '2025-12-01T13:11:21.837786+00:00'
+rendered_at: '2025-12-15T12:56:58.752238+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YTljNDMwYzg3Nzc2ZGExMTgxNjVmNWNj/Thom-Cosy.jpg

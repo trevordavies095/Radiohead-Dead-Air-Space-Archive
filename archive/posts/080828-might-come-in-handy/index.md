@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080828-might-come-in-handy
 published: '2008-08-28'
 published_display: Thu, 28th August 2008
 source_page: 28
-rendered_at: '2025-12-01T13:09:05.219604+00:00'
+rendered_at: '2025-12-15T12:56:44.218649+00:00'
 assets: []
 embeds: []
 ---

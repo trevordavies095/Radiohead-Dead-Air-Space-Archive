@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070428-how-does-it-go
 published: '2007-04-28'
 published_display: Sat, 28th April 2007
 source_page: 35
-rendered_at: '2025-12-01T13:11:19.525379+00:00'
+rendered_at: '2025-12-15T12:56:56.805945+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZWJkY2RmY2ExNzYxZmFhZTExY2NiYzVi/Look-into-the-Light.jpg

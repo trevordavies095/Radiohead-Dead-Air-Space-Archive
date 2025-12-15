@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080627-glasgow-green
 published: '2008-06-27'
 published_display: Fri, 27th June 2008
 source_page: 29
-rendered_at: '2025-12-01T13:09:07.755915+00:00'
+rendered_at: '2025-12-15T12:56:46.769118+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YjY4MzQxN2M2M2I1MDg2MTFiMTViOWUz/dark.jpg

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/251119-bologna-november-20
 published: '2025-11-19'
 published_display: Wed, 19th November 2025
 source_page: 1
-rendered_at: '2025-12-01T13:03:54.971038+00:00'
+rendered_at: '2025-12-15T12:51:40.628322+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZGVmNzE5YWFiZmY5MTA2OWVhOWIwMzQw/1_Bologna__RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A1453.jpg

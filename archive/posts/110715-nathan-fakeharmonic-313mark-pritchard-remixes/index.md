@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/110715-nathan-fakeharmonic
 published: '2011-07-15'
 published_display: Fri, 15th July 2011
 source_page: 16
-rendered_at: '2025-12-01T13:04:45.753513+00:00'
+rendered_at: '2025-12-15T12:52:25.711472+00:00'
 assets: []
 embeds: []
 ---

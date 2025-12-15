@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060828-amsterdam-two
 published: '2006-08-28'
 published_display: Mon, 28th August 2006
 source_page: 40
-rendered_at: '2025-12-01T13:11:27.488718+00:00'
+rendered_at: '2025-12-15T12:57:03.746680+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YmEwM2ZmZjNjZTk0NDBiZTdlNjgyMjdi/xwholeshowexposureedinburgh.jpg

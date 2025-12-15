@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/110528-rip-gil-scott-heron
 published: '2011-05-28'
 published_display: Sat, 28th May 2011
 source_page: 17
-rendered_at: '2025-12-01T13:04:48.214339+00:00'
+rendered_at: '2025-12-15T12:52:27.483855+00:00'
 assets: []
 embeds: []
 ---

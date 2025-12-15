@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/090421-roland-in-mexico-ci
 published: '2009-04-21'
 published_display: Tue, 21st April 2009
 source_page: 24
-rendered_at: '2025-12-01T13:09:00.991435+00:00'
+rendered_at: '2025-12-15T12:56:39.954179+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ODQ0MjFjZmI3MzYxNDE0ZWFiZGE3YWZi/Everywhere.jpg

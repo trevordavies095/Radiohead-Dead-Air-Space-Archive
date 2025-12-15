@@ -5,8 +5,8 @@ post_id: 383
 canonical_url: https://www.radiohead.com/deadairspace/091109-nuclear-power-no-thanks
 published: '2009-11-09'
 published_display: Mon, 9th November 2009
-source_page: 21
-rendered_at: '2025-12-01T13:08:58.228635+00:00'
+source_page: 22
+rendered_at: '2025-12-15T12:56:37.651577+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YjNjZWY5YWQ2ZjBkZDRiOWM1MDU3YWU5/nu-nuke.jpg

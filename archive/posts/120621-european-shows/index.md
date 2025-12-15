@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/120621-european-shows
 published: '2012-06-21'
 published_display: Thu, 21st June 2012
 source_page: 13
-rendered_at: '2025-12-01T13:04:36.707065+00:00'
+rendered_at: '2025-12-15T12:52:17.481798+00:00'
 assets: []
 embeds: []
 ---

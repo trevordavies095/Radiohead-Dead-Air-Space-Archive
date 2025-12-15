@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/101207-human-rights-day-20
 published: '2010-12-07'
 published_display: Tue, 7th December 2010
 source_page: 18
-rendered_at: '2025-12-01T13:08:54.492891+00:00'
+rendered_at: '2025-12-15T12:56:33.515809+00:00'
 assets: []
 embeds: []
 ---

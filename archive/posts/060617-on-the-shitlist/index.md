@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060617-on-the-shitlist
 published: '2006-06-17'
 published_display: Sat, 17th June 2006
 source_page: 41
-rendered_at: '2025-12-01T13:11:28.845225+00:00'
+rendered_at: '2025-12-15T12:57:04.834212+00:00'
 assets: []
 embeds: []
 ---

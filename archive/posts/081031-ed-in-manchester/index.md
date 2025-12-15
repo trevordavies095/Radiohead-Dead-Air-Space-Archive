@@ -5,8 +5,8 @@ post_id: 323
 canonical_url: https://www.radiohead.com/deadairspace/081031-ed-in-manchester
 published: '2008-10-31'
 published_display: Fri, 31st October 2008
-source_page: 25
-rendered_at: '2025-12-01T13:09:02.570583+00:00'
+source_page: 26
+rendered_at: '2025-12-15T12:56:41.872388+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YWJlOGExMWU4Mjk4YWEzM2EzZjg5ZjBi/050122.jpg

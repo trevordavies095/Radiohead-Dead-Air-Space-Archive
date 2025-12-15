@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/251119-thank-you-for-havin
 published: '2025-11-19'
 published_display: Wed, 19th November 2025
 source_page: 1
-rendered_at: '2025-12-01T13:03:55.221967+00:00'
+rendered_at: '2025-12-15T12:51:40.675839+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NTRlNGMyZjBmOTNiMjUzY2IyZDE5NjI1/image001.jpg

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/120617-scott
 published: '2012-06-17'
 published_display: Sun, 17th June 2012
 source_page: 13
-rendered_at: '2025-12-01T13:04:36.755686+00:00'
+rendered_at: '2025-12-15T12:52:17.525584+00:00'
 assets: []
 embeds: []
 ---

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060308-tuesday-photos-with
 published: '2006-03-08'
 published_display: Wed, 8th March 2006
 source_page: 43
-rendered_at: '2025-12-01T13:11:32.592914+00:00'
+rendered_at: '2025-12-15T12:57:06.629346+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MWFhNTViYWMxODY5YTAzODE3NTM2ODIy/thom15step.jpg

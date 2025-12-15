@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/111018-philips-solo-shows-
 published: '2011-10-18'
 published_display: Tue, 18th October 2011
 source_page: 15
-rendered_at: '2025-12-01T13:04:43.956646+00:00'
+rendered_at: '2025-12-15T12:52:24.096652+00:00'
 assets: []
 embeds: []
 ---

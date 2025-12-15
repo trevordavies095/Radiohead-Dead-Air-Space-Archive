@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080821-toronto-soundcheck
 published: '2008-08-21'
 published_display: Thu, 21st August 2008
 source_page: 28
-rendered_at: '2025-12-01T13:09:05.313205+00:00'
+rendered_at: '2025-12-15T12:56:44.313463+00:00'
 assets: []
 embeds: []
 ---

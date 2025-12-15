@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080116-live-on-radioheadtv
 published: '2008-01-16'
 published_display: Wed, 16th January 2008
 source_page: 31
-rendered_at: '2025-12-01T13:11:13.459517+00:00'
+rendered_at: '2025-12-15T12:56:52.673867+00:00'
 assets: []
 embeds: []
 ---

@@ -5,8 +5,8 @@ post_id: 293
 canonical_url: https://www.radiohead.com/deadairspace/080902-thom-eraser-yorke-introduces-kieran-burial-hebden
 published: '2008-09-02'
 published_display: Tue, 2nd September 2008
-source_page: 27
-rendered_at: '2025-12-01T13:09:04.676709+00:00'
+source_page: 28
+rendered_at: '2025-12-15T12:56:44.029019+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MjJkNmZhNzE2NmM3N2ZmZWE1YTlhOTQ0/88160005.jpg

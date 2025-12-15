@@ -5,8 +5,8 @@ post_id: 538
 canonical_url: https://www.radiohead.com/deadairspace/130128-moutse-community-radio-station-963-fm-your-friend-to-rely-on
 published: '2013-01-28'
 published_display: Mon, 28th January 2013
-source_page: 10
-rendered_at: '2025-12-01T13:04:30.027842+00:00'
+source_page: 11
+rendered_at: '2025-12-15T12:52:12.282217+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/Yjg4OTY5ZWE5ZTVmNWRmYzlkODFiZDNi/IMG_2616.JPG

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/061205-visit-sunny-somerse
 published: '2006-12-05'
 published_display: Tue, 5th December 2006
 source_page: 39
-rendered_at: '2025-12-01T13:11:26.227859+00:00'
+rendered_at: '2025-12-15T12:57:02.591512+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZmNkMDY1ZTNkNzJmYzBkN2IwMDFhMGIx/Thom-Taylor-Notebook.jpg

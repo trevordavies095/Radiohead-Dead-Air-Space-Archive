@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070406-a-big-fan-of-the-co
 published: '2007-04-06'
 published_display: Fri, 6th April 2007
 source_page: 36
-rendered_at: '2025-12-01T13:11:20.814430+00:00'
+rendered_at: '2025-12-15T12:56:57.889146+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YmNkYTgzOGIwODk2OWY5YWY0ZDI4MTc1/phil_does_the_congas.jpg

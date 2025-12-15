@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/081025-saitama-arena-tokyo
 published: '2008-10-25'
 published_display: Sat, 25th October 2008
 source_page: 26
-rendered_at: '2025-12-01T13:09:03.038870+00:00'
+rendered_at: '2025-12-15T12:56:42.031632+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZWFjNWU2OWY5MGY0NjA2MDJmMDc2NmQw/049915.jpg

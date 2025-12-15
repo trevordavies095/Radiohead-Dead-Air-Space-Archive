@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/090419-ed-and-phil-in-buen
 published: '2009-04-19'
 published_display: Sun, 19th April 2009
 source_page: 24
-rendered_at: '2025-12-01T13:09:01.092048+00:00'
+rendered_at: '2025-12-15T12:56:40.051384+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MDk5YmEyMjAzMWJjZTgwYjJiZTVhY2I0/Ed-and-Phil-in-BA.jpg

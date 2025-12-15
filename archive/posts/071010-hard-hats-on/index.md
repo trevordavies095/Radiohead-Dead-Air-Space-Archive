@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/071010-hard-hats-on
 published: '2007-10-10'
 published_display: Wed, 10th October 2007
 source_page: 34
-rendered_at: '2025-12-01T13:11:17.626808+00:00'
+rendered_at: '2025-12-15T12:56:55.529680+00:00'
 assets: []
 embeds: []
 ---

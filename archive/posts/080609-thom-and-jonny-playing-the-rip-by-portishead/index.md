@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080609-thom-and-jonny-play
 published: '2008-06-09'
 published_display: Mon, 9th June 2008
 source_page: 29
-rendered_at: '2025-12-01T13:09:08.041715+00:00'
+rendered_at: '2025-12-15T12:56:47.054232+00:00'
 assets: []
 embeds: []
 ---

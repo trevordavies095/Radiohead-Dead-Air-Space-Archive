@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060814-as-i-go-to-sleep-in
 published: '2006-08-14'
 published_display: Mon, 14th August 2006
 source_page: 41
-rendered_at: '2025-12-01T13:11:28.126965+00:00'
+rendered_at: '2025-12-15T12:57:04.387049+00:00'
 assets: []
 embeds: []
 ---

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/100603-office-chart-for-a-
 published: '2010-06-03'
 published_display: Thu, 3rd June 2010
 source_page: 19
-rendered_at: '2025-12-01T13:08:55.752158+00:00'
+rendered_at: '2025-12-15T12:56:34.786170+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YzY3NGQyZTgxM2M2YmRjOGVkNDUwNWVj/340x_ico.jpg

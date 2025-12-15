@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080510-charlotte
 published: '2008-05-10'
 published_display: Sat, 10th May 2008
 source_page: 30
-rendered_at: '2025-12-01T13:09:08.745064+00:00'
+rendered_at: '2025-12-15T12:56:47.786269+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MWRjZmQwNzc4OTE3YzUxMTNhNGY0YmI0/soundcheck.jpg

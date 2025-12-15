@@ -5,8 +5,8 @@ post_id: 294
 canonical_url: https://www.radiohead.com/deadairspace/080902-bangers-and-mash
 published: '2008-09-02'
 published_display: Tue, 2nd September 2008
-source_page: 27
-rendered_at: '2025-12-01T13:09:04.628168+00:00'
+source_page: 28
+rendered_at: '2025-12-15T12:56:43.977933+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/Y2Y1ZDJlZGRjZDg0YTY4ZjI4OGFkMzU4/88150034.jpg

@@ -5,8 +5,8 @@ post_id: 114
 canonical_url: https://www.radiohead.com/deadairspace/061204-landscape-with-tent
 published: '2006-12-04'
 published_display: Mon, 4th December 2006
-source_page: 39
-rendered_at: '2025-12-01T13:11:26.330813+00:00'
+source_page: 40
+rendered_at: '2025-12-15T12:57:03.165654+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/YzZjZGE4ZDEzNDQ2NzYxYzBiNzZkNmQ5/where-we-stayed.jpg

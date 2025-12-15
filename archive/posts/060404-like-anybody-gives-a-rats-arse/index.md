@@ -5,8 +5,8 @@ post_id: 69
 canonical_url: https://www.radiohead.com/deadairspace/060404-like-anybody-gives-a-rats-arse
 published: '2006-04-04'
 published_display: Tue, 4th April 2006
-source_page: 42
-rendered_at: '2025-12-01T13:11:31.843807+00:00'
+source_page: 43
+rendered_at: '2025-12-15T12:57:06.409424+00:00'
 assets: []
 embeds: []
 ---

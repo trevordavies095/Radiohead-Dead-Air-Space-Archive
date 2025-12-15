@@ -5,8 +5,8 @@ post_id: 144
 canonical_url: https://www.radiohead.com/deadairspace/070315-studio-photographs
 published: '2007-03-15'
 published_display: Thu, 15th March 2007
-source_page: 37
-rendered_at: '2025-12-01T13:11:22.306725+00:00'
+source_page: 38
+rendered_at: '2025-12-15T12:56:59.497517+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NTQ0MjQ5OWYzODliNDE0NTk1MWVkMDg3/10.jpg

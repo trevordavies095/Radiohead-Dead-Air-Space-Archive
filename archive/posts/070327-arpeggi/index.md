@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070327-arpeggi
 published: '2007-03-27'
 published_display: Tue, 27th March 2007
 source_page: 37
-rendered_at: '2025-12-01T13:11:21.553919+00:00'
+rendered_at: '2025-12-15T12:56:58.656779+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MTNjNGI5YTdkNzVkODAwMDIzYzVmOGFh/ed_and_thom_arpeggi_1_.jpg

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/091127-the-wave
 published: '2009-11-27'
 published_display: Fri, 27th November 2009
 source_page: 21
-rendered_at: '2025-12-01T13:08:58.083309+00:00'
+rendered_at: '2025-12-15T12:56:37.149777+00:00'
 assets: []
 embeds: []
 ---

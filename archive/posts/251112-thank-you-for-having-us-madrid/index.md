@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/251112-thank-you-for-havin
 published: '2025-11-12'
 published_display: Wed, 12th November 2025
 source_page: 1
-rendered_at: '2025-12-01T13:03:55.286396+00:00'
+rendered_at: '2025-12-15T12:51:40.785698+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZTQ5MjNlOTY1YzA0OTliYmE1YzQyNTc1/1_MADRID_RADIOHEAD_PHOTO_BY_ALEX_LAKE_TWOSHORTDAYS_9H0A0823.jpg

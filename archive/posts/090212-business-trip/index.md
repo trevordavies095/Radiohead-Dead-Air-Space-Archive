@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/090212-business-trip
 published: '2009-02-12'
 published_display: Thu, 12th February 2009
 source_page: 25
-rendered_at: '2025-12-01T13:09:01.953024+00:00'
+rendered_at: '2025-12-15T12:56:40.926763+00:00'
 assets: []
 embeds: []
 ---

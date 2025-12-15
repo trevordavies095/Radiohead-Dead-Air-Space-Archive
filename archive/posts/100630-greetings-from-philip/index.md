@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/100630-greetings-from-phil
 published: '2010-06-30'
 published_display: Wed, 30th June 2010
 source_page: 19
-rendered_at: '2025-12-01T13:08:55.510081+00:00'
+rendered_at: '2025-12-15T12:56:34.562538+00:00'
 assets: []
 embeds: []
 ---

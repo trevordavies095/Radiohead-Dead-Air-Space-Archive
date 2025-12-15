@@ -5,8 +5,8 @@ post_id: 263
 canonical_url: https://www.radiohead.com/deadairspace/080530-what-was-in-duncans-caseahhh
 published: '2008-05-30'
 published_display: Fri, 30th May 2008
-source_page: 29
-rendered_at: '2025-12-01T13:09:08.222879+00:00'
+source_page: 30
+rendered_at: '2025-12-15T12:56:47.587040+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MDMxMzU4MmQ4Yzg2NjE3YWU1MjkwYzEy/In_Duncans_Case.jpg

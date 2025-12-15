@@ -5,8 +5,8 @@ post_id: 292
 canonical_url: https://www.radiohead.com/deadairspace/080901-no-one-will-play-scrabble-with-jonny
 published: '2008-09-01'
 published_display: Mon, 1st September 2008
-source_page: 27
-rendered_at: '2025-12-01T13:09:04.728044+00:00'
+source_page: 28
+rendered_at: '2025-12-15T12:56:44.078933+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/M2NlYmViNjc2OGRkOGZhM2U0Y2NlYTc1/88170015.jpg

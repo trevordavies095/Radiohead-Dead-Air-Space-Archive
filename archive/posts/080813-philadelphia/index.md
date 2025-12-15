@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080813-philadelphia
 published: '2008-08-13'
 published_display: Wed, 13th August 2008
 source_page: 28
-rendered_at: '2025-12-01T13:09:05.499735+00:00'
+rendered_at: '2025-12-15T12:56:44.507604+00:00'
 assets: []
 embeds: []
 ---

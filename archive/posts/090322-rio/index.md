@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/090322-rio
 published: '2009-03-22'
 published_display: Sun, 22nd March 2009
 source_page: 24
-rendered_at: '2025-12-01T13:09:01.306225+00:00'
+rendered_at: '2025-12-15T12:56:40.239911+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/N2RmNzJlYWJhZWYwYzQ4YWVlNzMzYzZk/Rio3.jpg

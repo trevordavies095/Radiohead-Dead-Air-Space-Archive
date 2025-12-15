@@ -5,8 +5,8 @@ post_id: 233
 canonical_url: https://www.radiohead.com/deadairspace/080115-jigsaw-falling-into-place
 published: '2008-01-15'
 published_display: Tue, 15th January 2008
-source_page: 31
-rendered_at: '2025-12-01T13:11:13.820511+00:00'
+source_page: 32
+rendered_at: '2025-12-15T12:56:53.197799+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZTlhYjRhNzUyOTE5MDE5OTIzN2UwMjQy/aw33.jpg

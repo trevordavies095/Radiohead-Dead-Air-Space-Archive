@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060620-bonnaroo
 published: '2006-06-20'
 published_display: Tue, 20th June 2006
 source_page: 41
-rendered_at: '2025-12-01T13:11:28.799839+00:00'
+rendered_at: '2025-12-15T12:57:04.782516+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MTRjN2YzMzIxZTlhZWRjYzJmMmQyYjYy/edcloseyes.jpg

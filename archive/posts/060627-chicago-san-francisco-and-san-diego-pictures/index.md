@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060627-chicago-san-francis
 published: '2006-06-27'
 published_display: Tue, 27th June 2006
 source_page: 41
-rendered_at: '2025-12-01T13:11:28.744342+00:00'
+rendered_at: '2025-12-15T12:57:04.726826+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZWZhYzAzMDU3MDY5NGFiYTE5M2JlOTQw/pinholenumber.jpg

@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060725-found-this-in-old-n
 published: '2006-07-26'
 published_display: Wed, 26th July 2006
 source_page: 41
-rendered_at: '2025-12-01T13:11:28.193458+00:00'
+rendered_at: '2025-12-15T12:57:04.436541+00:00'
 assets: []
 embeds: []
 ---

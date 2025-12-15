@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/071219-best-foot-forward
 published: '2007-12-19'
 published_display: Wed, 19th December 2007
 source_page: 33
-rendered_at: '2025-12-01T13:11:16.266016+00:00'
+rendered_at: '2025-12-15T12:56:54.596298+00:00'
 assets: []
 embeds: []
 ---

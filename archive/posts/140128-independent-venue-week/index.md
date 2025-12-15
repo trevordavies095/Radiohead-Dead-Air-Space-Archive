@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/140128-independent-venue-w
 published: '2014-01-28'
 published_display: Tue, 28th January 2014
 source_page: 9
-rendered_at: '2025-12-01T13:04:24.962894+00:00'
+rendered_at: '2025-12-15T12:52:08.240165+00:00'
 assets: []
 embeds: []
 ---

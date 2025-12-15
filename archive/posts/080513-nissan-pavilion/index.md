@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080513-nissan-pavilion
 published: '2008-05-13'
 published_display: Tue, 13th May 2008
 source_page: 30
-rendered_at: '2025-12-01T13:09:08.628678+00:00'
+rendered_at: '2025-12-15T12:56:47.689036+00:00'
 assets: []
 embeds: []
 ---

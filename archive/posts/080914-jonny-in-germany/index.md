@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080914-jonny-in-germany
 published: '2008-09-14'
 published_display: Sun, 14th September 2008
 source_page: 27
-rendered_at: '2025-12-01T13:09:04.143536+00:00'
+rendered_at: '2025-12-15T12:56:43.170528+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/MDYzZTI0YjlhMGU5Nzg3MDliMjUwMjk0/88160030.jpg

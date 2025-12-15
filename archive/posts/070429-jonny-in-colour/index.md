@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/070429-jonny-in-colour
 published: '2007-04-29'
 published_display: Sun, 29th April 2007
 source_page: 35
-rendered_at: '2025-12-01T13:11:19.479386+00:00'
+rendered_at: '2025-12-15T12:56:56.756662+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/NTE1NmIwYjZhMzhhZjAwOTY0ZDM2MTc2/jonny_in_colour!.jpg

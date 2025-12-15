@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/090825-life-on-earth-sound
 published: '2009-08-25'
 published_display: Tue, 25th August 2009
 source_page: 22
-rendered_at: '2025-12-01T13:08:59.151237+00:00'
+rendered_at: '2025-12-15T12:56:38.134985+00:00'
 assets: []
 embeds: []
 ---

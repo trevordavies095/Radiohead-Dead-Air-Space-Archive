@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/060603-copenhagentoboston
 published: '2006-06-03'
 published_display: Sat, 3rd June 2006
 source_page: 42
-rendered_at: '2025-12-01T13:11:29.691106+00:00'
+rendered_at: '2025-12-15T12:57:05.527055+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZmI5MzFkNzQwYmI1NDdmMGIxZTQ3YmFl/jonnyphilcopenhagen.jpg

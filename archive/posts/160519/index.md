@@ -5,8 +5,8 @@ post_id: 600
 canonical_url: https://www.radiohead.com/deadairspace/160519-
 published: '2016-05-19'
 published_display: Thu, 19th May 2016
-source_page: 7
-rendered_at: '2025-12-01T13:04:17.561235+00:00'
+source_page: 8
+rendered_at: '2025-12-15T12:52:01.991498+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/OTYyZGYzYTRmY2IzNjMzYTZmZmM1YjQy/dfdzvut4u6.jpg

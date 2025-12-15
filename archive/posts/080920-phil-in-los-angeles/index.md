@@ -6,7 +6,7 @@ canonical_url: https://www.radiohead.com/deadairspace/080920-phil-in-los-angeles
 published: '2008-09-21'
 published_display: Sun, 21st September 2008
 source_page: 27
-rendered_at: '2025-12-01T13:09:04.027935+00:00'
+rendered_at: '2025-12-15T12:56:43.080489+00:00'
 assets:
 - type: image
   remote_url: https://rsrc.wasteheadquarters.com/ZDNhNmZkNTdkMTlkMDk0MzAxOWRhNzFj/CG04.jpg
